@@ -22,8 +22,9 @@ ax.barh(age_groups, female_population, color='red', label='Female')
 
 # Adding labels and title
 ax.set_xlabel('Population')
+ax.set_ylabel('Age')
 ax.set_title('Population Pyramid (2023)')
-ax.legend()
+ax.legend(prop={'size': 19})
 
 # Setting the x-axis limit for better visualization
 max_population = max(max(abs(np.array(male_population))), max(female_population))
