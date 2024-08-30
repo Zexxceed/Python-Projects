@@ -34,6 +34,7 @@ plt.xlabel('Year', fontsize=14)
 plt.ylabel('Amount (in PHP)', fontsize=14)
 plt.xticks(index + 2*bar_width, years)
 plt.legend()
+plt.grid(True, axis='y', linestyle='--', alpha=0.7)
 
 # Display the plot
 plt.show()
