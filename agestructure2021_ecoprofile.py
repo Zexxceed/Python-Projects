@@ -9,8 +9,8 @@ age_groups = [
 ]
 
 # Population data for 2021
-males_2021 = [110, 680, 1015, 1050, 1055, 1080, 1060, 1020, 830, 770, 640, 620, 560, 420, 300, 180, 100, 95]
-females_2021 = [115, 590, 850, 1000, 980, 970, 950, 860, 700, 630, 600, 570, 490, 380, 310, 210, 150, 145]
+males_2021 = [108, 784, 1063, 1182, 1093, 1040, 1064, 996, 840, 731, 627, 644, 537, 404, 264, 165, 89, 100]
+females_2021 = [119, 651, 992, 1053, 982, 1048, 925, 844, 654, 623, 576, 539, 454, 381, 293, 198, 139, 146]
 
 # Create the plot for 2021
 plt.figure(figsize=(10, 8))
@@ -27,7 +27,7 @@ plt.title('Age Structure of Dupax del Sur (2021)', fontsize=16)
 plt.xlabel('Population', fontsize=14)
 plt.ylabel('Age Group', fontsize=14)
 plt.yticks(index + bar_width / 2, age_groups)
-plt.legend()
+plt.legend(fontsize=15)
 
 # Adding grid
 plt.grid(True, axis='x', linestyle='--', alpha=0.7)

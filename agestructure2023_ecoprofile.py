@@ -27,7 +27,7 @@ plt.title('Age Structure of Dupax del Sur (2023)', fontsize=16)
 plt.xlabel('Population', fontsize=14)
 plt.ylabel('Age Group', fontsize=14)
 plt.yticks(index + bar_width / 2, age_groups)
-plt.legend()
+plt.legend(fontsize=15)
 
 # Adding grid
 plt.grid(True, axis='x', linestyle='--', alpha=0.7)
