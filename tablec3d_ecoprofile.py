@@ -1,7 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-# Data for the plot
 barangays = [
     "Abaca", "Bagumbayan", "Balzain", "Banila", "Biruk", "Canabay", "Carolotan",
     "Domang", "Dopaj", "Gabut", "Ganao", "Kinabuan", "Kimbutan", "Lukidnon", 
@@ -10,7 +9,6 @@ barangays = [
 
 years = ["2019", "2020", "2021", "2022", "2023"]
 
-# Collectibles and Actual Collections for each year
 data = {
     "2019": [73877.59, 562518.22, 181551.43, 297918.06, 254769.53, 467488.31, 959703.53, 539325.83, 391801.94, 
              257957.76, 433041.40, 519333.11, 184377.23, 183713.77, 349177.10, 534560.45, 223634.90, 143221.95, 81380.57],
@@ -24,11 +22,9 @@ data = {
              185208.56, 263669.44, 299135.26, 115142.40, 173264.40, 216859.60, 352073.20, 156983.00, 87928.05, 73625.40]
 }
 
-# Bar width
 bar_width = 0.15
 index = np.arange(len(barangays))
 
-# Create a bar plot
 plt.figure(figsize=(14, 8))
 
 plt.bar(index, data["2019"], bar_width, label='2019', color='skyblue')
@@ -37,15 +33,10 @@ plt.bar(index + 2*bar_width, data["2021"], bar_width, label='2021', color='green
 plt.bar(index + 3*bar_width, data["2022"], bar_width, label='2022', color='red')
 plt.bar(index + 4*bar_width, data["2023"], bar_width, label='2023', color='purple')
 
-# Adding titles and labels
 plt.title('Inventory of Other Local Taxes Collectibles and Actual Collections By Item (2019-2023)', fontsize=16)
 plt.xlabel('Barangay', fontsize=14)
 plt.ylabel('Amount (in PHP)', fontsize=14)
 plt.xticks(index + 2*bar_width, barangays, rotation=90)
 plt.legend()
-
-# Adding grid
 plt.grid(True, axis='y', linestyle='--', alpha=0.7)
-
-# Display the plot
 plt.show()
