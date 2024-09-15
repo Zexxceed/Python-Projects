@@ -7,7 +7,7 @@ df = pd.read_csv('total_population_dupaxdelsur.csv')
 import matplotlib.pyplot as plt
 
 plt.plot(df['Year'], df['Population'], marker='o')
-plt.title('Population Growth of Dubux Del Sur')
+plt.title('Population Growth of Dupaxx Del Sur')
 plt.xlabel('Year')
 plt.ylabel('Population')
 plt.show()
