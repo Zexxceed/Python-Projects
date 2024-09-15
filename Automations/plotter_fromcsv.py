@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the CSV file
-df = pd.read_csv('total_population_dupaxdelsur.csv')
+df = pd.read_csv('C:/Users/Zexxceed/Desktop/Python Projects/total_population_dupaxdelsur.csv')
 
 # Example: Plot total population over time using Matplotlib
 import matplotlib.pyplot as plt
