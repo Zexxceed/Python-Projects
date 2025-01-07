@@ -1,0 +1,2001 @@
+bike_type,frame_material,production_cost,assembly_time,top_speed,battery_type,motor_power,customer_score
+road,aluminum,219.21,62.24,19.63,lead acid,317W,3.01
+road,STEel,617.81,87.4,26.15,nimh,230W,6.67
+road,steel,608.5,57.26,27.84,li-ion,300W,7.29
+mountain,steel,701.25,56.78,30.16,-,369W,9.35
+road,carbon fiber,584.79,66.15,19.77,li-ion,282W,7.81
+folding,aluminum,506.15,70.52,34.08,li-ion,269W,5.76
+road,carbon fiber,365.08,40.18,26.99,nimh,264W,4.92
+folding,steel,615.71,49.99,24.19,lead acid,238W,8.42
+road,steel,302.05,86.78,23.57,lead acid,271W,4.71
+standard,aluminum,476.44,70.91,22.38,lead acid,271W,6.65
+road,carbon fiber,555.38,55.69,24.05,lead acid,227W,6.03
+folding,aluminum,602.8,53.67,,li-ion,207W,7.33
+mountain,aluminum,207.5,32.68,30.96,li-ion,231W,8.2
+mountain,carbon fiber,229.71,43.54,26.56,lead acid,309W,4.97
+standard,carbon fiber,229.41,57.39,26.31,nimh,270W,6.38
+road,aluminum,719.26,55.62,26.3,nimh,245W,6.3
+mountain,aluminum,456.33,55.46,23.65,lead acid,183W,6.12
+folding,steel,682.64,55.95,21.25,nimh,293W,6.4
+mountain,steel,493.85,78.45,24.25,lead acid,285W,6.77
+standard,carbon fiber,569.48,69.81,21.35,nimh,281W,6.64
+road,steel,391.8,46.31,30.23,nimh,268W,6.15
+folding,carbon fiber,715.66,74.93,19.04,nimh,318W,5.44
+mountain,aluminum,420.91,79.83,34.74,nimh,225W,4.98
+standard,carbon fiber,314.36,69.16,27.98,li-ion,303W,5.28
+folding,carbon fiber,606.7,87.43,25.99,li-ion,312W,8.66
+road,aluminum,548.77,73.58,31.22,nimh,210W,5.06
+folding,aluminum,222.51,71.73,25.23,nimh,302W,5.2
+road,carbon fiber,656.23,51.69,24.37,li-ion,222W,5.76
+road,carbon fiber,451.23,54.3,24.53,li-ion,384W,6.9
+road,steel,597.4,77.09,23.32,lead acid,225W,8.16
+mountain,aluminum,696.75,47.75,30.51,lead acid,239W,7.39
+mountain,aluminum,528.66,45.48,31.77,lead acid,305W,6.15
+mountain,aluminum,272.34,64.46,28.55,lead acid,284W,3.91
+mountain,aluminum,700.95,69.06,26.06,li-ion,345W,8.22
+road,carbon fiber,463.53,45.49,27.88,lead acid,227W,8.67
+folding,aluminum,353.98,100.09,21.66,lead acid,220W,6.5
+standard,carbon fiber,578.49,54.86,15.56,li-ion,256W,5.26
+standard,carbon fiber,529.26,45.7,27.25,lead acid,202W,9.29
+mountain,steel,492.35,55.0,27.55,nimh,188W,5.32
+mountain,carbon fiber,204.8,93.8,23.77,nimh,366W,5.07
+mountain,steel,734.87,86.4,,lead acid,218W,5.76
+standard,aluminum,300.55,58.19,18.0,-,257W,5.82
+road,carbon fiber,573.99,51.91,30.78,lead acid,241W,5.71
+road,aluminum,347.67,92.23,18.15,-,314W,6.34
+standard,steel,752.28,78.3,36.16,lead acid,192W,4.71
+standard,aluminum,505.25,66.74,28.21,nimh,349W,9.0
+standard,steel,620.51,61.07,25.0,lead acid,265W,8.42
+road,aluminum,744.17,58.8,26.42,lead acid,173W,6.92
+mountain,steel,531.97,74.29,23.07,li-ion,330W,6.77
+mountain,carbon fiber,304.75,75.18,20.31,li-ion,346W,6.11
+standard,carbon fiber,249.82,40.29,30.16,nimh,238W,5.9
+road,aluminum,672.14,29.5,31.07,nimh,269W,8.26
+folding,carbon fiber,259.73,87.8,20.66,lead acid,366W,4.73
+road,aluminum,518.76,54.87,32.84,li-ion,235W,4.37
+standard,carbon fiber,260.63,51.22,16.5,li-ion,276W,3.89
+road,carbon fiber,536.77,55.65,19.74,lead acid,234W,9.22
+standard,carbon fiber,501.05,59.57,30.36,lead acid,282W,6.35
+mountain,carbon fiber,480.64,35.95,28.5,nimh,327W,1.91
+mountain,STEel,587.49,67.5,28.57,lead acid,311W,9.1
+folding,steel,276.24,70.54,21.65,nimh,256W,5.94
+mountain,carbon fiber,298.75,66.91,24.35,lead acid,306W,5.87
+standard,steel,597.1,50.74,20.41,nimh,180W,6.36
+road,carbon fiber,417.01,86.38,,li-ion,217W,8.15
+folding,carbon fiber,584.49,73.12,29.06,li-ion,242W,7.59
+standard,steel,425.71,36.21,24.96,nimh,177W,5.44
+folding,aluminum,647.22,66.36,23.22,lead acid,314W,5.83
+standard,aluminum,569.78,51.34,,lead acid,157W,5.21
+folding,aluminum,317.66,54.67,25.57,li-ion,318W,4.95
+folding,steel,524.16,47.21,18.48,lead acid,206W,7.53
+standard,steel,447.02,41.32,27.74,nimh,271W,6.72
+road,aluminum,757.68,78.11,29.52,nimh,260W,8.17
+mountain,aluminum,296.65,80.11,25.58,li-ion,267W,5.43
+standard,carbon fiber,418.21,67.41,30.94,li-ion,172W,2.81
+mountain,aluminum,790.1,28.64,29.85,nimh,187W,7.92
+mountain,carbon fiber,257.33,60.06,25.23,li-ion,191W,4.91
+standard,aluminum,277.14,64.12,20.62,li-ion,244W,5.08
+standard,steel,390.9,73.15,24.6,lead acid,234W,4.83
+folding,carbon fiber,598.9,46.58,24.76,nimh,322W,7.87
+standard,aluminum,640.32,40.27,19.53,li-ion,287W,9.02
+folding,aluminum,238.12,68.76,24.38,nimh,201W,4.36
+standard,steel,467.13,61.47,20.58,lead acid,222W,3.89
+folding,carbon fiber,771.79,72.59,14.72,li-ion,269W,8.85
+standard,aluminum,607.0,76.71,28.23,lead acid,272W,5.41
+road,carbon fiber,275.04,76.15,27.9,lead acid,195W,4.63
+standard,carbon fiber,783.19,59.34,22.9,lead acid,215W,6.19
+mountain,carbon fiber,325.76,94.64,29.89,li-ion,224W,4.75
+folding,carbon fiber,729.46,66.05,23.88,lead acid,198W,8.94
+road,aluminum,225.81,58.1,19.87,nimh,169W,6.31
+folding,steel,412.81,49.65,29.22,li-ion,291W,7.43
+mountain,carbon fiber,792.2,49.4,32.44,nimh,198W,9.21
+mountain,steel,399.6,57.02,22.48,li-ion,296W,4.25
+folding,carbon fiber,338.07,48.95,21.99,lead acid,315W,2.75
+standard,carbon fiber,638.52,58.82,19.48,nimh,168W,8.74
+road,carbon fiber,580.89,41.55,23.2,nimh,195W,7.09
+folding,carbon fiber,542.47,64.21,22.26,li-ion,196W,8.34
+standard,aluminum,288.24,83.6,14.93,lead acid,166W,7.73
+folding,steel,473.44,46.04,27.37,lead acid,298W,6.24
+standard,aluminum,702.15,57.41,21.02,nimh,213W,9.68
+standard,aluminum,583.89,41.89,27.0,nimh,234W,7.02
+folding,steel,362.68,54.61,33.98,nimh,237W,7.68
+mountain,aluminum,750.18,53.66,30.11,lead acid,249W,7.06
+road,steel,543.37,39.06,34.63,li-ion,184W,8.35
+mountain,aluminum,658.03,51.85,25.72,li-ion,325W,10.29
+mountain,aluminum,233.92,89.94,31.64,nimh,331W,4.29
+road,aluminum,490.85,74.44,24.05,lead acid,317W,6.44
+road,carbon fiber,589.89,59.65,24.82,nimh,290W,6.8
+road,steel,379.49,60.15,21.45,lead acid,188W,4.94
+folding,carbon fiber,508.25,78.57,26.93,lead acid,222W,4.77
+mountain,aluminum,335.07,33.32,30.42,lead acid,237W,4.38
+folding,carbon fiber,720.46,50.49,20.89,nimh,275W,7.34
+road,steel,618.41,57.73,16.25,lead acid,218W,6.56
+standard,carbon fiber,609.1,46.84,17.9,nimh,230W,4.94
+standard,aluminum,639.72,42.69,22.47,nimh,291W,3.65
+road,carbon fiber,372.89,69.77,24.03,lead acid,185W,6.53
+folding,aluminum,377.09,92.46,22.33,lead acid,305W,6.03
+mountain,carbon fiber,534.97,75.55,26.07,li-ion,170W,7.99
+standard,carbon fiber,631.32,50.0,23.46,nimh,255W,9.07
+road,aluminum,617.51,81.56,23.34,lead acid,298W,10.25
+mountain,carbon fiber,753.78,53.47,24.38,lead acid,305W,8.92
+road,steel,732.77,92.94,32.83,lead acid,234W,6.31
+folding,aluminum,254.93,76.71,27.18,li-ion,257W,4.98
+mountain,aluminum,548.17,47.45,27.91,-,276W,6.43
+road,aluminum,660.13,58.23,21.94,nimh,229W,8.23
+road,steel,300.85,55.27,19.54,li-ion,221W,5.27
+road,aluminum,756.78,74.2,26.17,nimh,231W,8.31
+standard,steel,781.09,42.19,21.72,lead acid,220W,6.97
+road,steel,219.51,55.75,37.41,lead acid,242W,3.96
+road,carbon fiber,658.63,74.13,28.98,nimh,264W,6.17
+road,steel,549.97,55.52,26.47,lead acid,186W,10.53
+mountain,steel,733.67,67.53,22.34,-,258W,10.3
+standard,steel,262.73,71.1,15.81,lead acid,286W,7.68
+road,carbon fiber,326.66,61.14,30.03,lead acid,251W,7.39
+road,aluminum,237.22,67.73,30.86,li-ion,245W,4.96
+standard,carbon fiber,403.8,67.73,14.77,li-ion,258W,8.76
+road,carbon fiber,675.14,44.73,19.95,li-ion,261W,7.68
+standard,steel,689.84,70.44,34.72,lead acid,273W,5.08
+standard,carbon fiber,254.03,49.34,26.17,lead acid,245W,7.86
+folding,aluminum,770.59,73.76,22.35,li-ion,281W,6.39
+road,aluminum,388.79,61.88,22.62,nimh,324W,7.17
+road,carbon fiber,613.61,84.32,21.7,nimh,317W,7.78
+folding,aluminum,514.56,51.32,20.0,nimh,249W,6.7
+road,steel,736.37,32.03,30.62,nimh,187W,9.78
+standard,carbon fiber,336.87,94.23,34.48,nimh,187W,6.73
+folding,carbon fiber,320.96,47.81,35.96,-,214W,7.64
+road,steel,281.04,75.36,14.72,li-ion,290W,3.33
+road,steel,458.73,49.49,24.78,lead acid,250W,5.48
+road,aluminum,644.82,88.08,33.1,li-ion,328W,7.91
+standard,aluminum,630.42,69.09,30.89,lead acid,238W,7.67
+folding,aluminum,745.67,54.42,24.85,nimh,258W,7.6
+road,carbon fiber,710.86,55.78,23.46,li-ion,176W,8.47
+road,carbon fiber,529.86,88.8,20.32,-,207W,6.66
+standard,steel,453.63,68.22,17.39,-,319W,4.94
+road,carbon fiber,368.98,59.43,26.4,li-ion,382W,8.28
+mountain,carbon fiber,698.25,43.29,21.36,nimh,169W,6.54
+mountain,steel,369.58,34.73,,lead acid,234W,4.54
+road,carbon fiber,563.48,114.66,22.73,lead acid,243W,8.97
+mountain,steel,526.86,73.08,24.78,nimh,231W,5.39
+road,steel,340.77,93.33,26.8,nimh,298W,4.81
+road,carbon fiber,269.03,59.43,17.61,li-ion,269W,4.75
+mountain,aluminum,646.92,69.83,26.52,lead acid,227W,7.78
+road,STEel,683.54,47.02,20.05,nimh,251W,7.44
+mountain,aluminum,373.49,71.39,18.95,lead acid,262W,7.65
+mountain,steel,649.62,46.35,33.62,nimh,312W,7.97
+road,steel,701.55,64.49,23.06,-,282W,7.96
+mountain,aluminum,459.33,86.38,27.74,lead acid,292W,6.51
+mountain,carbon fiber,661.03,74.57,26.76,li-ion,255W,8.4
+standard,steel,571.29,57.9,21.92,li-ion,245W,4.55
+road,aluminum,334.77,21.16,25.5,lead acid,223W,5.99
+mountain,steel,663.13,60.39,21.36,nimh,273W,7.6
+standard,steel,756.18,58.12,23.2,nimh,254W,9.29
+standard,aluminum,471.04,74.81,28.29,nimh,282W,7.57
+mountain,aluminum,392.7,44.98,24.08,nimh,327W,5.14
+mountain,steel,545.77,59.47,29.56,nimh,328W,6.61
+folding,carbon fiber,776.89,54.97,24.64,lead acid,213W,6.8
+mountain,carbon fiber,350.98,72.74,24.08,lead acid,177W,7.21
+folding,aluminum,497.75,67.87,23.67,li-ion,300W,5.2
+folding,STEel,471.64,41.82,26.26,nimh,328W,7.23
+road,steel,660.73,70.09,24.99,li-ion,181W,4.97
+road,steel,376.49,55.58,23.11,lead acid,202W,6.62
+mountain,carbon fiber,625.61,57.11,26.04,lead acid,264W,6.99
+road,carbon fiber,764.58,61.6,33.28,lead acid,100W,6.55
+standard,carbon fiber,290.05,56.3,28.0,nimh,290W,4.49
+road,steel,441.92,67.27,26.45,li-ion,293W,6.64
+folding,aluminum,429.31,37.56,25.53,li-ion,296W,6.88
+road,carbon fiber,242.32,83.74,23.5,lead acid,222W,4.64
+mountain,carbon fiber,344.97,52.43,19.17,lead acid,370W,6.05
+mountain,carbon fiber,638.82,65.07,24.77,li-ion,250W,6.43
+mountain,aluminum,357.28,49.28,,li-ion,307W,7.93
+mountain,steel,748.37,44.03,28.77,nimh,274W,8.49
+road,aluminum,468.93,53.72,25.69,nimh,248W,5.73
+standard,aluminum,433.82,49.51,33.3,li-ion,225W,7.62
+standard,steel,437.12,30.44,35.04,lead acid,255W,6.14
+mountain,aluminum,487.84,67.0,24.24,nimh,257W,6.92
+folding,steel,362.38,49.88,28.02,lead acid,248W,7.06
+standard,aluminum,548.47,63.23,20.54,nimh,241W,6.76
+standard,carbon fiber,276.54,66.08,26.94,lead acid,200W,5.19
+folding,steel,589.59,35.81,21.46,nimh,242W,4.3
+mountain,carbon fiber,410.41,30.11,25.57,nimh,174W,6.44
+standard,aluminum,408.3,76.79,25.1,nimh,246W,4.84
+standard,aluminum,221.31,69.95,21.5,li-ion,277W,4.31
+road,carbon fiber,589.29,24.88,33.07,nimh,247W,6.56
+mountain,carbon fiber,422.11,57.78,27.27,lead acid,272W,2.98
+mountain,carbon fiber,703.65,72.68,23.26,li-ion,254W,5.57
+mountain,aluminum,223.41,85.1,29.23,lead acid,260W,7.13
+road,aluminum,266.93,68.88,18.3,-,261W,6.42
+mountain,carbon fiber,699.45,63.85,26.72,lead acid,172W,8.7
+road,carbon fiber,356.08,45.94,31.36,li-ion,294W,4.74
+folding,carbon fiber,268.73,53.12,26.25,lead acid,234W,3.03
+road,steel,232.42,67.91,26.02,li-ion,260W,4.24
+folding,aluminum,728.56,77.84,38.63,li-ion,304W,8.43
+standard,aluminum,206.3,46.16,35.19,lead acid,273W,5.88
+mountain,aluminum,432.02,54.17,20.37,lead acid,219W,8.58
+road,steel,356.68,64.01,28.27,nimh,196W,7.19
+road,carbon fiber,688.94,53.06,22.52,nimh,230W,8.17
+mountain,aluminum,486.34,77.72,23.85,-,321W,6.15
+road,carbon fiber,224.91,54.53,26.65,nimh,306W,4.56
+standard,carbon fiber,436.52,75.71,24.63,nimh,202W,5.54
+mountain,carbon fiber,345.27,67.77,27.28,nimh,286W,3.82
+folding,steel,634.92,35.92,19.35,li-ion,218W,7.53
+mountain,aluminum,435.32,42.25,21.91,li-ion,266W,5.99
+folding,steel,307.75,57.16,31.14,nimh,283W,6.2
+standard,STEel,515.16,79.42,26.42,nimh,215W,7.96
+mountain,carbon fiber,523.56,52.23,25.04,li-ion,295W,6.62
+folding,aluminum,217.11,57.19,25.36,nimh,204W,7.01
+road,steel,491.15,83.85,16.44,lead acid,301W,5.26
+road,aluminum,568.28,54.99,18.44,nimh,271W,8.29
+standard,carbon fiber,291.85,48.1,17.94,lead acid,290W,1.96
+road,steel,332.67,39.93,29.61,lead acid,284W,3.25
+road,aluminum,797.9,44.43,24.44,lead acid,238W,6.12
+road,carbon fiber,355.18,54.12,34.38,li-ion,198W,4.4
+folding,carbon fiber,674.84,68.91,29.14,lead acid,181W,5.79
+standard,carbon fiber,344.67,72.73,26.88,li-ion,200W,5.32
+folding,steel,240.82,76.38,24.15,lead acid,240W,5.19
+folding,carbon fiber,205.4,60.06,22.64,nimh,245W,4.94
+standard,aluminum,289.74,63.14,16.24,li-ion,256W,4.07
+standard,steel,434.12,47.7,19.9,nimh,132W,4.09
+mountain,aluminum,510.06,54.34,26.75,lead acid,233W,8.56
+folding,steel,674.54,56.26,27.51,-,264W,8.25
+road,steel,516.06,72.94,25.41,lead acid,379W,4.17
+standard,carbon fiber,571.89,76.09,36.52,li-ion,168W,5.21
+folding,carbon fiber,466.83,78.8,,lead acid,320W,6.54
+folding,steel,454.23,85.63,24.21,lead acid,220W,7.84
+road,aluminum,718.06,34.82,23.35,lead acid,285W,8.94
+road,steel,550.28,60.17,19.25,lead acid,243W,9.01
+mountain,steel,562.28,83.37,21.89,li-ion,281W,5.42
+standard,carbon fiber,461.73,45.74,28.0,lead acid,230W,5.06
+road,carbon fiber,400.8,68.42,22.69,lead acid,215W,6.99
+road,aluminum,539.77,65.57,33.0,-,282W,5.71
+folding,carbon fiber,493.25,40.03,29.89,li-ion,367W,8.52
+road,aluminum,202.4,63.08,28.26,li-ion,196W,4.46
+standard,carbon fiber,570.09,60.85,31.39,li-ion,251W,7.04
+standard,steel,733.37,54.97,23.84,li-ion,226W,6.03
+mountain,steel,266.03,79.84,18.36,li-ion,242W,7.18
+standard,steel,624.71,53.43,29.68,lead acid,178W,6.54
+standard,aluminum,414.91,24.82,37.53,lead acid,252W,7.59
+road,carbon fiber,673.64,59.53,24.9,lead acid,204W,8.21
+folding,carbon fiber,799.4,51.76,25.85,nimh,254W,7.31
+folding,steel,315.26,83.69,19.59,li-ion,327W,4.35
+standard,aluminum,684.14,44.87,22.96,-,188W,9.06
+folding,steel,291.25,55.35,20.47,lead acid,289W,3.63
+mountain,aluminum,593.5,75.23,31.48,li-ion,305W,5.89
+folding,aluminum,357.88,80.45,25.67,nimh,259W,7.05
+road,steel,646.02,34.87,20.31,li-ion,238W,5.78
+road,aluminum,626.21,68.16,,nimh,186W,5.04
+mountain,steel,472.84,48.97,30.66,lead acid,256W,8.08
+folding,aluminum,612.11,50.48,23.81,nimh,205W,4.97
+mountain,aluminum,556.58,60.39,36.63,nimh,229W,5.14
+road,steel,680.24,57.83,20.43,lead acid,192W,9.53
+mountain,carbon fiber,204.5,66.86,34.68,li-ion,256W,4.8
+road,steel,658.33,38.83,36.52,li-ion,178W,8.28
+standard,steel,347.97,66.6,27.35,li-ion,209W,5.09
+road,carbon fiber,718.96,61.54,27.16,nimh,244W,7.76
+road,steel,758.28,55.23,27.02,li-ion,258W,8.85
+folding,carbon fiber,698.85,46.13,19.78,li-ion,298W,7.73
+mountain,steel,396.3,65.73,24.28,lead acid,215W,7.11
+folding,aluminum,299.35,66.17,23.58,li-ion,270W,4.25
+road,carbon fiber,658.93,50.37,25.9,li-ion,208W,8.8
+folding,steel,378.59,51.48,28.96,li-ion,224W,4.65
+standard,steel,739.67,72.64,22.23,nimh,217W,6.01
+mountain,steel,382.19,70.67,26.81,li-ion,298W,5.76
+mountain,STEel,731.57,66.89,23.3,li-ion,267W,6.67
+standard,carbon fiber,619.31,67.45,22.36,-,302W,7.19
+folding,aluminum,215.01,53.26,33.72,nimh,247W,6.76
+road,aluminum,592.0,59.38,28.98,nimh,220W,6.47
+mountain,steel,598.3,81.34,23.1,nimh,218W,6.38
+standard,carbon fiber,424.21,75.43,22.26,nimh,256W,4.02
+standard,aluminum,331.77,59.71,26.94,li-ion,349W,5.96
+mountain,carbon fiber,531.37,61.46,24.26,lead acid,195W,7.78
+folding,carbon fiber,312.56,91.65,31.43,li-ion,263W,6.35
+folding,steel,789.19,52.61,25.05,lead acid,236W,9.31
+road,aluminum,786.79,85.99,29.27,lead acid,204W,6.33
+road,steel,419.71,77.28,29.31,li-ion,195W,6.51
+standard,aluminum,380.99,93.09,26.02,nimh,320W,5.51
+folding,steel,481.54,67.58,16.11,li-ion,294W,5.39
+mountain,steel,601.6,79.86,,li-ion,262W,7.91
+road,carbon fiber,234.22,67.0,27.48,li-ion,233W,7.53
+standard,carbon fiber,348.57,56.29,24.91,lead acid,227W,6.0
+standard,steel,261.53,43.44,20.98,nimh,270W,6.51
+mountain,steel,428.41,46.57,25.29,li-ion,172W,7.91
+road,aluminum,301.15,73.34,26.83,lead acid,244W,5.37
+mountain,steel,756.48,68.83,22.95,nimh,264W,6.45
+standard,carbon fiber,684.74,72.62,28.5,li-ion,238W,7.51
+road,steel,384.29,44.69,23.5,li-ion,250W,6.89
+folding,steel,737.87,94.35,17.07,lead acid,315W,7.02
+mountain,carbon fiber,395.4,46.99,27.1,li-ion,244W,5.31
+standard,aluminum,625.91,29.37,25.84,lead acid,207W,6.99
+road,carbon fiber,482.14,66.95,35.96,li-ion,146W,8.95
+folding,carbon fiber,299.95,71.04,24.71,lead acid,157W,6.52
+standard,aluminum,248.32,59.71,18.35,lead acid,196W,6.34
+mountain,aluminum,724.66,55.9,31.97,nimh,192W,5.07
+road,aluminum,263.33,24.69,21.49,lead acid,181W,6.46
+road,aluminum,700.35,84.63,26.36,lead acid,319W,8.44
+standard,carbon fiber,371.39,45.41,27.81,li-ion,217W,8.14
+folding,carbon fiber,542.77,75.68,23.49,nimh,237W,5.44
+standard,carbon fiber,706.05,60.82,17.62,li-ion,222W,5.86
+road,aluminum,561.68,37.47,27.66,li-ion,231W,6.4
+road,aluminum,385.79,44.7,14.68,lead acid,330W,7.22
+road,steel,508.55,60.8,20.43,li-ion,264W,10.93
+mountain,aluminum,675.44,62.53,18.41,nimh,216W,7.92
+standard,carbon fiber,470.74,52.11,,li-ion,274W,8.62
+road,carbon fiber,221.91,44.53,22.38,nimh,215W,1.36
+mountain,carbon fiber,572.49,67.87,19.04,nimh,286W,8.59
+standard,carbon fiber,293.65,69.24,18.47,lead acid,189W,4.38
+road,carbon fiber,329.06,41.45,25.96,li-ion,245W,5.14
+folding,STEel,752.88,50.31,30.69,nimh,305W,8.04
+mountain,steel,236.92,60.01,32.79,nimh,342W,3.55
+folding,carbon fiber,565.58,60.23,32.28,lead acid,233W,6.24
+mountain,steel,383.99,58.39,18.58,lead acid,226W,7.25
+mountain,steel,429.61,57.2,29.74,lead acid,207W,8.76
+folding,steel,218.91,45.72,25.86,lead acid,253W,2.34
+standard,steel,656.83,56.01,26.04,li-ion,279W,6.48
+mountain,aluminum,537.67,25.0,28.53,li-ion,259W,7.31
+folding,steel,452.43,65.05,27.37,lead acid,353W,5.29
+folding,aluminum,346.17,51.94,28.27,lead acid,320W,2.23
+mountain,carbon fiber,511.56,58.42,27.38,lead acid,240W,6.07
+standard,aluminum,537.37,38.63,17.85,-,263W,7.97
+road,aluminum,269.33,52.14,19.55,nimh,208W,6.84
+folding,aluminum,754.08,41.02,22.53,lead acid,277W,7.6
+standard,carbon fiber,459.03,71.2,21.03,nimh,206W,4.34
+standard,aluminum,743.87,43.79,29.92,lead acid,188W,10.26
+standard,carbon fiber,300.25,53.28,30.09,li-ion,255W,4.53
+standard,carbon fiber,279.54,64.33,30.59,li-ion,293W,5.53
+road,aluminum,325.16,40.14,14.65,nimh,264W,4.97
+standard,carbon fiber,241.72,79.08,22.83,li-ion,257W,10.16
+road,carbon fiber,366.88,81.07,19.06,nimh,258W,5.28
+standard,aluminum,358.48,75.27,29.88,lead acid,238W,4.13
+folding,carbon fiber,399.0,63.48,21.18,lead acid,277W,7.07
+road,carbon fiber,538.87,74.17,19.46,nimh,220W,6.81
+standard,steel,200.6,84.04,30.98,lead acid,332W,3.92
+folding,carbon fiber,709.05,42.59,16.97,nimh,303W,9.36
+folding,carbon fiber,422.41,68.84,23.47,li-ion,209W,6.78
+road,steel,403.2,51.98,38.85,lead acid,264W,3.3
+standard,steel,321.86,51.23,14.58,li-ion,288W,5.72
+mountain,carbon fiber,436.22,84.0,24.6,lead acid,324W,6.64
+mountain,steel,644.22,64.4,28.35,lead acid,267W,8.87
+mountain,carbon fiber,768.78,33.52,19.58,lead acid,188W,6.71
+road,carbon fiber,287.64,70.88,21.0,lead acid,274W,5.82
+standard,steel,417.91,54.11,23.74,nimh,274W,7.14
+folding,aluminum,745.37,49.87,27.15,lead acid,229W,8.25
+folding,aluminum,415.81,71.95,26.0,li-ion,250W,5.4
+standard,carbon fiber,297.25,68.61,24.35,lead acid,204W,5.76
+standard,carbon fiber,388.49,49.65,31.24,lead acid,191W,7.22
+standard,carbon fiber,308.05,64.27,24.35,nimh,186W,4.09
+mountain,steel,504.95,50.34,,nimh,330W,7.48
+mountain,steel,775.69,59.4,22.37,li-ion,193W,7.13
+folding,carbon fiber,411.31,50.08,25.46,li-ion,276W,7.59
+standard,steel,465.33,56.26,30.67,li-ion,171W,8.74
+folding,aluminum,211.11,54.85,,nimh,237W,5.15
+road,steel,581.19,80.16,21.7,lead acid,280W,9.87
+road,steel,318.26,78.78,19.36,nimh,275W,4.82
+folding,steel,746.87,38.25,25.87,nimh,259W,10.86
+mountain,steel,667.33,55.39,24.44,nimh,216W,7.79
+folding,carbon fiber,432.62,60.89,25.43,li-ion,240W,5.67
+mountain,steel,715.96,72.4,26.44,-,252W,8.49
+mountain,aluminum,633.42,47.17,24.45,nimh,269W,7.39
+mountain,carbon fiber,706.95,87.5,21.56,li-ion,217W,6.53
+folding,aluminum,502.85,69.21,17.64,li-ion,254W,6.16
+mountain,aluminum,342.27,55.02,20.47,nimh,253W,7.99
+standard,carbon fiber,256.73,67.8,23.41,nimh,241W,4.74
+standard,steel,677.84,63.13,,nimh,252W,8.83
+folding,carbon fiber,618.11,70.9,31.84,lead acid,229W,8.65
+folding,aluminum,635.82,64.24,30.07,lead acid,252W,6.95
+standard,aluminum,425.41,67.29,28.23,lead acid,232W,4.67
+road,carbon fiber,218.01,70.55,25.2,nimh,352W,7.77
+mountain,aluminum,501.65,50.37,14.7,lead acid,262W,4.89
+standard,carbon fiber,353.68,77.3,18.4,li-ion,218W,7.26
+standard,steel,283.14,48.82,25.96,li-ion,180W,3.69
+standard,steel,352.18,41.0,19.24,li-ion,235W,8.39
+standard,carbon fiber,693.45,64.84,26.18,lead acid,222W,5.56
+road,aluminum,517.26,67.32,26.14,lead acid,273W,3.98
+road,aluminum,447.32,75.15,20.3,lead acid,270W,4.46
+folding,steel,233.62,70.46,29.66,lead acid,322W,4.96
+folding,steel,657.13,63.17,25.05,li-ion,255W,7.29
+mountain,steel,223.71,82.03,28.57,li-ion,262W,2.2
+road,aluminum,492.05,34.29,28.35,lead acid,170W,7.87
+road,aluminum,501.35,53.73,21.45,li-ion,313W,6.13
+standard,carbon fiber,489.94,94.58,27.37,nimh,160W,7.14
+road,aluminum,742.67,60.48,28.27,li-ion,262W,5.54
+folding,carbon fiber,472.54,44.82,25.76,li-ion,276W,6.73
+mountain,carbon fiber,213.81,65.17,25.67,li-ion,246W,4.42
+road,aluminum,661.33,52.84,17.13,li-ion,289W,7.78
+mountain,steel,763.68,67.07,21.99,li-ion,196W,6.03
+mountain,carbon fiber,392.1,78.42,21.38,lead acid,219W,4.8
+standard,steel,414.01,41.06,19.73,li-ion,259W,4.36
+mountain,steel,444.32,47.57,24.98,nimh,188W,6.55
+folding,carbon fiber,562.58,40.32,24.11,lead acid,300W,7.94
+folding,aluminum,662.53,77.52,27.36,lead acid,148W,6.21
+road,steel,361.78,95.22,25.35,lead acid,286W,6.04
+mountain,steel,308.65,35.8,15.65,nimh,286W,7.15
+standard,aluminum,359.38,64.39,17.78,lead acid,170W,3.25
+mountain,STEel,645.12,52.65,20.38,nimh,283W,6.63
+mountain,carbon fiber,369.28,54.27,19.54,li-ion,274W,8.06
+standard,carbon fiber,775.09,82.71,25.38,lead acid,299W,7.07
+road,carbon fiber,521.46,52.02,19.18,nimh,281W,7.3
+mountain,steel,796.7,57.36,24.9,nimh,353W,10.02
+standard,steel,281.64,59.03,23.78,lead acid,254W,5.06
+mountain,aluminum,712.36,46.05,26.02,li-ion,261W,8.12
+standard,aluminum,320.36,73.97,24.38,nimh,246W,6.78
+standard,aluminum,493.55,58.9,31.73,nimh,153W,6.18
+mountain,carbon fiber,448.52,41.94,,li-ion,241W,4.91
+mountain,steel,660.43,40.51,18.59,li-ion,131W,9.24
+folding,aluminum,794.3,65.67,30.36,nimh,302W,5.62
+standard,aluminum,243.82,51.57,24.75,lead acid,265W,6.53
+mountain,aluminum,332.97,75.16,19.01,li-ion,254W,8.69
+mountain,carbon fiber,406.2,62.23,17.44,lead acid,214W,7.67
+standard,steel,350.38,49.48,34.89,lead acid,267W,7.23
+mountain,steel,440.42,69.21,40.77,li-ion,189W,4.87
+mountain,steel,322.76,62.97,20.82,li-ion,142W,4.25
+folding,carbon fiber,272.94,59.06,25.55,li-ion,257W,4.91
+mountain,steel,761.58,67.75,21.09,li-ion,221W,6.4
+road,carbon fiber,652.63,60.06,14.51,-,283W,7.64
+mountain,aluminum,701.85,49.52,26.74,lead acid,201W,5.18
+mountain,carbon fiber,439.82,67.7,17.87,li-ion,228W,5.08
+road,carbon fiber,534.67,60.72,22.81,nimh,274W,6.08
+mountain,steel,215.61,68.56,24.72,lead acid,267W,5.53
+road,aluminum,753.18,65.69,32.31,nimh,213W,9.35
+folding,aluminum,633.72,68.97,24.56,li-ion,293W,7.23
+road,STEel,547.57,57.25,32.37,nimh,353W,7.1
+standard,aluminum,287.94,50.15,21.79,nimh,340W,7.32
+folding,aluminum,303.55,60.23,27.72,lead acid,177W,7.27
+road,carbon fiber,598.6,39.25,19.49,nimh,246W,7.16
+mountain,carbon fiber,590.8,43.12,18.42,lead acid,186W,6.56
+standard,carbon fiber,480.94,74.63,24.92,li-ion,299W,8.42
+road,carbon fiber,613.91,49.15,19.26,li-ion,183W,4.84
+standard,carbon fiber,265.43,70.27,33.68,li-ion,168W,6.94
+folding,aluminum,467.73,81.23,20.99,-,189W,5.65
+road,steel,800.0,58.37,31.38,li-ion,246W,10.83
+mountain,carbon fiber,737.27,66.75,24.51,lead acid,303W,5.68
+mountain,carbon fiber,553.88,31.32,32.47,lead acid,247W,7.44
+standard,aluminum,420.31,52.69,18.76,li-ion,230W,5.09
+mountain,aluminum,242.02,73.37,,nimh,210W,6.59
+standard,steel,670.64,57.67,13.77,lead acid,238W,9.85
+mountain,carbon fiber,339.87,47.07,26.66,li-ion,258W,6.86
+mountain,steel,720.16,54.03,20.96,nimh,307W,8.74
+road,steel,344.37,78.95,16.57,lead acid,276W,5.09
+mountain,aluminum,716.56,80.81,16.66,li-ion,219W,8.15
+standard,aluminum,796.4,58.94,29.3,nimh,196W,7.82
+folding,carbon fiber,531.67,48.49,28.29,li-ion,285W,6.21
+folding,steel,510.96,65.79,,li-ion,209W,8.73
+standard,carbon fiber,333.57,88.14,30.98,nimh,199W,7.38
+standard,carbon fiber,252.23,54.13,24.23,lead acid,222W,3.81
+mountain,steel,486.64,85.36,25.61,nimh,230W,5.9
+mountain,steel,477.94,29.53,31.85,nimh,231W,2.46
+folding,steel,402.3,66.22,29.12,li-ion,216W,7.01
+folding,steel,567.38,76.43,28.43,lead acid,279W,7.56
+mountain,aluminum,590.2,44.32,30.73,nimh,291W,5.76
+standard,steel,400.2,63.72,27.56,lead acid,236W,8.23
+road,steel,614.21,43.67,28.2,li-ion,203W,7.14
+standard,aluminum,513.66,60.28,25.52,lead acid,191W,3.72
+folding,steel,703.35,60.03,20.26,lead acid,222W,10.07
+mountain,steel,610.01,74.46,32.37,li-ion,245W,7.67
+standard,carbon fiber,286.44,55.88,27.31,nimh,299W,6.91
+folding,carbon fiber,499.85,75.66,,li-ion,298W,7.79
+road,carbon fiber,323.06,58.14,22.28,lead acid,265W,3.44
+road,steel,696.45,79.79,17.57,lead acid,197W,8.84
+standard,carbon fiber,311.66,49.9,14.06,nimh,213W,5.29
+folding,steel,704.25,97.73,28.91,li-ion,221W,7.06
+standard,aluminum,323.36,65.73,26.32,li-ion,255W,8.53
+mountain,steel,205.7,72.76,19.29,lead acid,313W,6.09
+mountain,steel,583.29,90.81,21.95,lead acid,250W,7.05
+folding,steel,379.19,55.68,10.61,nimh,211W,5.68
+standard,steel,480.34,53.24,27.99,li-ion,216W,4.41
+folding,aluminum,509.15,72.56,25.41,li-ion,313W,7.75
+folding,steel,225.51,69.52,18.29,lead acid,271W,6.0
+folding,carbon fiber,428.11,49.76,25.37,nimh,282W,5.92
+road,steel,332.07,69.48,23.99,lead acid,182W,5.45
+folding,steel,216.51,77.79,24.73,nimh,270W,2.64
+mountain,carbon fiber,616.31,79.82,33.46,nimh,351W,7.03
+mountain,aluminum,483.04,75.58,24.47,lead acid,273W,6.76
+mountain,steel,498.95,61.05,30.63,lead acid,221W,10.16
+mountain,steel,442.22,52.23,17.37,nimh,265W,5.24
+road,aluminum,691.35,69.22,28.93,lead acid,241W,6.3
+standard,steel,310.46,47.32,26.55,lead acid,217W,5.56
+road,steel,292.15,59.34,24.82,li-ion,232W,6.76
+folding,steel,224.31,47.4,34.18,li-ion,146W,4.74
+mountain,steel,535.87,52.66,25.86,li-ion,218W,4.56
+road,carbon fiber,604.6,79.57,26.48,lead acid,216W,7.35
+road,steel,426.31,62.9,31.57,li-ion,233W,6.44
+standard,carbon fiber,684.44,78.77,24.85,lead acid,212W,8.9
+standard,carbon fiber,477.34,79.91,25.9,lead acid,232W,8.64
+folding,steel,513.96,81.48,32.08,nimh,199W,6.82
+road,aluminum,375.59,62.8,28.67,nimh,267W,6.95
+folding,STEel,743.27,36.74,26.56,-,205W,5.32
+mountain,carbon fiber,319.16,35.32,21.6,lead acid,232W,4.06
+road,steel,434.72,66.44,32.53,nimh,170W,5.13
+folding,steel,732.17,57.99,28.39,lead acid,197W,10.02
+mountain,steel,354.88,65.76,,li-ion,140W,6.12
+standard,steel,796.1,25.32,23.58,lead acid,269W,5.96
+standard,steel,402.9,81.1,23.75,nimh,298W,5.08
+mountain,aluminum,484.84,69.08,27.52,li-ion,227W,6.87
+folding,aluminum,732.47,89.19,,lead acid,262W,6.23
+mountain,steel,621.41,61.61,22.78,nimh,211W,7.88
+road,aluminum,495.35,75.57,30.31,nimh,275W,6.54
+folding,steel,743.57,70.55,17.56,lead acid,237W,7.37
+mountain,steel,321.56,83.29,34.29,nimh,251W,6.55
+folding,steel,789.79,53.12,23.09,nimh,261W,8.42
+mountain,steel,579.99,72.17,28.95,lead acid,251W,6.28
+standard,steel,391.5,52.59,20.34,li-ion,238W,6.54
+mountain,carbon fiber,345.57,64.94,26.36,li-ion,232W,5.56
+road,carbon fiber,599.8,86.86,22.94,li-ion,156W,9.26
+mountain,carbon fiber,238.42,57.44,18.23,lead acid,131W,4.15
+mountain,aluminum,607.3,73.35,23.29,nimh,265W,6.35
+standard,aluminum,709.65,64.03,16.33,li-ion,243W,6.68
+road,aluminum,485.74,50.16,22.68,-,217W,7.49
+road,steel,641.22,69.58,19.41,nimh,156W,9.33
+standard,steel,423.61,64.19,24.19,-,212W,7.4
+mountain,carbon fiber,503.75,78.89,30.55,lead acid,240W,5.14
+standard,steel,783.79,24.94,29.23,nimh,266W,4.63
+mountain,carbon fiber,561.98,38.13,28.04,lead acid,225W,6.68
+folding,steel,485.14,57.0,18.0,nimh,161W,6.74
+standard,steel,323.96,55.77,25.88,li-ion,240W,5.79
+mountain,carbon fiber,735.77,56.02,24.11,nimh,202W,8.77
+folding,aluminum,771.19,44.31,15.51,li-ion,337W,7.0
+mountain,steel,280.14,59.82,33.5,nimh,281W,4.72
+folding,steel,559.28,57.08,,lead acid,232W,6.57
+road,steel,397.2,61.23,29.18,li-ion,210W,4.96
+mountain,carbon fiber,629.51,53.51,24.66,nimh,234W,6.72
+road,aluminum,645.42,51.59,16.28,nimh,227W,5.51
+standard,aluminum,525.66,66.87,34.11,nimh,246W,6.23
+road,aluminum,362.98,73.1,21.12,lead acid,174W,3.68
+standard,aluminum,768.48,73.73,25.46,lead acid,263W,6.77
+road,steel,726.76,79.83,25.52,lead acid,239W,8.5
+road,aluminum,498.35,62.1,22.55,li-ion,208W,6.42
+road,carbon fiber,443.12,58.31,17.37,li-ion,226W,3.32
+standard,carbon fiber,227.61,50.93,20.46,nimh,241W,4.93
+standard,aluminum,760.38,64.82,38.4,li-ion,233W,8.01
+folding,aluminum,507.65,48.04,26.45,nimh,182W,6.58
+mountain,steel,498.65,74.28,28.3,nimh,259W,4.05
+mountain,steel,524.76,67.58,14.98,lead acid,295W,7.37
+road,carbon fiber,462.63,39.09,16.8,lead acid,291W,5.67
+standard,steel,690.45,56.5,22.71,nimh,244W,7.02
+folding,steel,795.2,84.38,22.59,nimh,224W,5.88
+folding,aluminum,370.79,56.52,14.97,lead acid,172W,6.89
+mountain,steel,211.71,74.06,29.48,nimh,305W,6.92
+standard,steel,582.09,51.71,32.02,lead acid,290W,7.83
+mountain,aluminum,380.09,64.07,29.52,lead acid,248W,5.21
+mountain,carbon fiber,374.99,77.22,21.81,li-ion,228W,6.21
+standard,aluminum,613.01,64.45,19.44,li-ion,294W,6.15
+standard,aluminum,649.02,59.62,20.3,lead acid,192W,8.04
+folding,aluminum,627.11,59.94,19.51,lead acid,234W,7.28
+folding,carbon fiber,717.76,53.21,22.44,lead acid,172W,7.78
+standard,carbon fiber,679.34,63.54,19.16,li-ion,218W,7.66
+road,carbon fiber,742.07,57.03,33.28,li-ion,325W,9.6
+road,carbon fiber,311.36,69.67,23.05,li-ion,200W,6.05
+mountain,aluminum,366.28,61.62,17.75,-,211W,8.28
+folding,carbon fiber,439.52,57.41,26.23,nimh,218W,9.27
+standard,carbon fiber,203.3,98.72,14.19,li-ion,297W,5.11
+road,carbon fiber,214.41,79.21,32.8,nimh,186W,7.52
+folding,steel,431.72,42.0,17.82,lead acid,246W,6.8
+mountain,carbon fiber,779.59,77.56,21.69,-,292W,9.02
+standard,carbon fiber,298.45,60.16,28.22,lead acid,247W,4.39
+standard,aluminum,210.21,53.59,32.71,nimh,251W,7.24
+folding,carbon fiber,522.36,60.83,21.01,lead acid,244W,4.9
+road,carbon fiber,705.15,83.78,25.03,nimh,260W,6.74
+standard,carbon fiber,596.8,60.28,17.79,lead acid,239W,6.74
+mountain,carbon fiber,359.68,64.39,22.47,nimh,288W,7.4
+mountain,steel,536.47,60.11,22.68,lead acid,268W,3.33
+folding,steel,319.76,81.76,37.99,nimh,275W,5.82
+standard,aluminum,336.27,73.3,32.49,nimh,278W,6.67
+mountain,aluminum,629.81,93.11,15.38,lead acid,274W,7.26
+mountain,carbon fiber,795.5,45.6,29.72,lead acid,350W,8.53
+road,carbon fiber,268.43,31.84,26.65,nimh,100W,6.94
+road,aluminum,251.93,98.89,24.76,lead acid,286W,5.18
+folding,steel,638.22,61.17,27.86,lead acid,223W,7.89
+mountain,carbon fiber,707.85,38.11,16.86,lead acid,227W,8.35
+folding,steel,241.42,63.17,29.72,nimh,181W,4.08
+road,steel,293.35,35.3,28.98,lead acid,264W,6.48
+folding,steel,363.58,68.83,27.39,nimh,294W,7.05
+road,aluminum,413.71,36.84,25.07,li-ion,262W,7.23
+road,aluminum,456.03,67.92,28.94,li-ion,287W,4.73
+folding,carbon fiber,223.11,53.96,29.52,li-ion,215W,6.3
+mountain,aluminum,453.93,68.03,14.68,lead acid,258W,8.37
+folding,steel,330.27,28.92,28.4,li-ion,318W,4.86
+road,aluminum,631.92,76.26,22.94,li-ion,268W,6.87
+folding,carbon fiber,412.21,65.62,17.75,nimh,279W,6.89
+folding,steel,516.96,36.98,20.6,lead acid,174W,5.8
+standard,carbon fiber,698.55,48.16,32.98,li-ion,184W,7.45
+standard,aluminum,458.13,49.53,25.87,-,171W,4.52
+mountain,aluminum,343.47,71.67,26.65,li-ion,217W,6.25
+road,steel,785.89,65.07,21.92,lead acid,270W,6.77
+standard,steel,685.04,72.93,29.57,lead acid,311W,7.19
+folding,aluminum,491.45,50.19,20.98,nimh,409W,4.61
+folding,steel,264.53,56.02,30.56,lead acid,236W,5.42
+mountain,steel,324.56,81.27,22.94,nimh,202W,7.22
+folding,carbon fiber,284.34,53.08,25.81,nimh,213W,4.67
+mountain,steel,383.09,83.5,28.27,lead acid,294W,4.45
+folding,carbon fiber,241.12,35.96,25.03,lead acid,200W,8.0
+folding,aluminum,278.94,86.49,30.12,nimh,331W,3.55
+folding,aluminum,795.8,77.3,25.5,li-ion,194W,8.77
+folding,steel,724.06,58.21,31.1,nimh,209W,6.33
+folding,carbon fiber,623.21,65.79,27.31,nimh,200W,5.02
+mountain,steel,239.62,48.0,24.24,lead acid,257W,6.02
+road,aluminum,694.05,34.84,27.65,li-ion,165W,7.4
+mountain,carbon fiber,757.08,68.21,28.1,lead acid,251W,7.09
+road,aluminum,216.81,65.29,25.02,lead acid,293W,6.61
+folding,aluminum,785.29,79.78,26.14,nimh,257W,9.33
+folding,aluminum,632.82,71.8,31.72,nimh,155W,5.28
+standard,carbon fiber,341.67,63.05,23.71,li-ion,259W,6.68
+road,steel,551.18,41.23,15.82,lead acid,226W,4.81
+folding,carbon fiber,271.14,55.09,26.41,lead acid,250W,3.76
+folding,steel,466.53,61.76,31.16,nimh,264W,6.49
+mountain,carbon fiber,521.76,81.26,22.88,lead acid,190W,7.57
+standard,carbon fiber,347.37,64.78,27.37,lead acid,259W,6.65
+road,steel,577.59,57.92,23.71,lead acid,215W,5.76
+road,steel,783.49,72.67,29.02,li-ion,252W,8.15
+standard,aluminum,758.88,58.36,22.77,li-ion,236W,8.07
+mountain,steel,538.27,85.58,20.33,lead acid,255W,6.49
+mountain,carbon fiber,604.3,60.92,27.62,lead acid,311W,7.66
+standard,aluminum,220.41,77.61,18.21,nimh,189W,4.92
+folding,steel,337.77,47.93,21.92,-,298W,2.82
+road,steel,504.65,43.55,27.61,-,279W,5.47
+road,steel,533.77,63.48,20.28,li-ion,370W,7.15
+folding,steel,482.74,51.52,25.36,li-ion,302W,4.78
+road,steel,634.62,42.6,23.61,li-ion,215W,6.83
+standard,carbon fiber,398.4,47.05,22.02,li-ion,249W,4.8
+road,aluminum,663.73,52.19,19.79,-,254W,10.0
+mountain,aluminum,251.03,51.11,34.41,nimh,374W,5.76
+road,carbon fiber,607.9,50.78,31.86,li-ion,167W,6.06
+standard,aluminum,432.32,60.68,25.06,lead acid,206W,5.78
+road,steel,253.73,68.25,25.29,nimh,230W,4.73
+mountain,steel,462.93,42.55,25.29,nimh,228W,6.53
+standard,aluminum,778.99,45.56,27.53,li-ion,172W,5.51
+folding,carbon fiber,343.17,75.09,30.68,nimh,222W,6.11
+folding,aluminum,395.1,50.78,25.81,lead acid,292W,4.18
+mountain,aluminum,604.9,28.29,20.58,nimh,262W,7.76
+folding,aluminum,296.05,55.49,33.29,nimh,265W,5.72
+folding,steel,518.46,52.5,31.29,li-ion,302W,5.94
+road,carbon fiber,348.87,47.4,34.84,nimh,199W,6.49
+folding,aluminum,475.84,45.26,18.32,nimh,234W,8.03
+road,steel,523.26,79.58,,li-ion,258W,6.3
+folding,carbon fiber,749.57,63.42,23.49,-,210W,8.94
+mountain,carbon fiber,390.6,61.27,26.51,-,221W,4.69
+standard,carbon fiber,376.79,82.62,26.55,nimh,254W,6.8
+standard,carbon fiber,383.69,58.12,23.61,li-ion,305W,8.16
+mountain,STEel,643.32,47.6,17.53,li-ion,242W,9.85
+folding,carbon fiber,468.33,52.34,23.87,nimh,294W,6.49
+road,steel,663.43,52.28,45.64,nimh,202W,7.47
+folding,aluminum,699.15,68.6,15.96,nimh,287W,6.53
+road,carbon fiber,733.07,61.88,24.59,nimh,301W,7.82
+folding,steel,360.58,56.87,18.54,li-ion,177W,6.19
+mountain,carbon fiber,633.12,59.32,30.7,lead acid,180W,6.52
+folding,steel,368.38,59.42,26.8,li-ion,311W,6.22
+road,carbon fiber,261.23,85.62,27.43,lead acid,249W,8.16
+mountain,steel,767.88,97.1,19.95,nimh,313W,9.12
+road,steel,610.31,61.34,29.5,-,337W,6.14
+folding,carbon fiber,439.22,62.04,27.69,li-ion,216W,7.09
+folding,carbon fiber,790.7,64.26,29.24,li-ion,184W,7.74
+standard,steel,595.9,60.46,24.48,nimh,249W,8.22
+standard,steel,407.1,49.84,27.0,nimh,244W,7.39
+folding,steel,631.62,75.49,21.82,li-ion,278W,6.54
+road,carbon fiber,522.06,54.59,30.05,lead acid,258W,6.8
+folding,carbon fiber,368.68,55.73,20.78,li-ion,231W,1.89
+mountain,carbon fiber,370.19,63.43,22.08,li-ion,248W,5.75
+folding,steel,230.32,57.98,33.84,lead acid,172W,4.5
+folding,carbon fiber,620.81,58.14,32.01,nimh,192W,6.58
+folding,carbon fiber,664.93,65.61,20.03,lead acid,194W,8.89
+folding,aluminum,765.18,65.86,25.45,li-ion,227W,7.92
+folding,carbon fiber,791.9,70.45,28.93,lead acid,251W,6.04
+standard,STEel,678.44,26.48,23.5,nimh,281W,9.36
+mountain,steel,507.95,49.97,23.96,nimh,285W,6.17
+mountain,carbon fiber,395.7,73.0,24.18,li-ion,214W,4.55
+road,aluminum,686.84,47.54,21.8,li-ion,210W,3.29
+road,aluminum,453.33,46.82,15.84,lead acid,272W,9.04
+road,aluminum,765.78,48.33,36.18,lead acid,226W,7.34
+mountain,steel,420.61,67.62,19.12,nimh,345W,5.54
+mountain,carbon fiber,230.62,44.62,23.67,lead acid,180W,5.7
+road,carbon fiber,585.09,55.75,19.86,lead acid,253W,7.89
+folding,carbon fiber,759.78,42.61,30.8,li-ion,304W,7.93
+folding,aluminum,726.46,105.04,23.14,li-ion,170W,6.69
+folding,carbon fiber,450.33,50.53,,li-ion,154W,7.21
+mountain,carbon fiber,259.43,80.9,19.19,lead acid,312W,4.17
+standard,carbon fiber,572.19,52.79,17.68,lead acid,256W,7.54
+road,carbon fiber,762.78,54.26,27.21,lead acid,225W,6.9
+road,aluminum,602.2,66.17,20.13,li-ion,225W,6.05
+folding,carbon fiber,552.98,53.37,29.52,li-ion,262W,7.14
+standard,steel,690.15,70.8,30.78,li-ion,255W,9.03
+folding,steel,218.61,71.19,26.97,lead acid,267W,6.43
+mountain,carbon fiber,201.5,52.02,34.92,lead acid,274W,5.45
+folding,aluminum,397.5,77.77,27.7,lead acid,291W,6.44
+standard,aluminum,719.56,40.0,22.56,lead acid,254W,7.41
+standard,aluminum,680.54,32.91,23.52,nimh,223W,7.13
+standard,aluminum,259.13,74.79,24.02,lead acid,315W,7.1
+mountain,aluminum,772.99,76.7,23.46,nimh,321W,8.23
+standard,carbon fiber,565.28,28.2,36.06,lead acid,258W,8.61
+folding,STEel,208.7,78.68,27.8,li-ion,238W,5.46
+folding,steel,541.87,61.99,31.83,li-ion,197W,8.01
+standard,carbon fiber,248.62,57.31,29.12,li-ion,207W,5.97
+mountain,steel,616.91,60.13,22.31,li-ion,199W,6.47
+mountain,steel,405.0,60.4,22.25,nimh,267W,8.09
+mountain,carbon fiber,786.19,58.02,25.57,li-ion,240W,6.2
+standard,steel,256.13,57.95,28.77,nimh,242W,5.01
+road,carbon fiber,560.48,66.99,28.16,nimh,349W,8.19
+mountain,aluminum,428.71,57.29,15.96,li-ion,262W,4.22
+standard,aluminum,688.34,74.61,27.97,li-ion,223W,9.15
+folding,steel,254.33,59.56,22.63,li-ion,310W,4.19
+standard,steel,598.0,49.05,15.59,li-ion,354W,4.91
+folding,carbon fiber,670.34,62.24,20.95,li-ion,362W,7.45
+mountain,steel,714.16,72.64,15.17,nimh,235W,7.66
+standard,carbon fiber,549.67,71.08,19.13,nimh,242W,6.73
+road,steel,244.42,77.58,20.76,lead acid,257W,5.84
+standard,carbon fiber,301.75,58.76,20.9,li-ion,264W,5.89
+standard,steel,251.63,83.35,24.02,lead acid,282W,5.76
+road,carbon fiber,310.76,63.22,22.14,li-ion,270W,4.26
+folding,steel,398.1,60.04,23.79,li-ion,339W,8.53
+folding,steel,552.08,88.84,26.86,lead acid,252W,5.69
+road,steel,387.89,55.05,28.96,li-ion,233W,6.38
+standard,steel,309.85,48.72,16.28,lead acid,304W,2.91
+mountain,steel,356.98,54.22,24.64,lead acid,178W,4.4
+standard,aluminum,667.63,67.68,23.95,-,344W,6.2
+mountain,aluminum,655.63,71.19,18.88,lead acid,208W,7.67
+road,carbon fiber,290.35,72.43,18.35,-,269W,7.3
+road,carbon fiber,648.72,68.51,25.15,li-ion,135W,6.33
+road,carbon fiber,483.34,92.91,33.46,lead acid,248W,7.42
+folding,steel,324.26,55.0,28.92,nimh,202W,6.54
+standard,aluminum,715.36,104.15,18.14,li-ion,228W,8.74
+road,STEel,526.56,68.75,25.32,nimh,100W,5.61
+road,carbon fiber,462.03,57.57,17.99,-,153W,5.61
+road,steel,440.12,60.06,23.3,nimh,267W,7.43
+mountain,carbon fiber,700.65,78.88,24.46,lead acid,136W,9.34
+standard,carbon fiber,506.45,71.19,,nimh,244W,6.4
+folding,aluminum,533.17,71.98,42.84,li-ion,219W,8.06
+standard,STEel,594.7,51.19,22.23,li-ion,232W,6.66
+folding,aluminum,782.89,47.9,21.32,nimh,206W,8.41
+standard,carbon fiber,302.95,36.38,21.54,nimh,314W,5.94
+road,steel,517.56,62.61,16.4,lead acid,269W,7.87
+mountain,carbon fiber,764.28,90.37,32.17,lead acid,230W,8.17
+standard,carbon fiber,278.04,65.13,30.46,nimh,292W,2.3
+standard,steel,411.61,57.47,19.71,lead acid,185W,6.89
+mountain,steel,632.22,52.04,18.35,lead acid,220W,7.84
+mountain,aluminum,203.6,47.61,21.88,nimh,318W,4.7
+road,carbon fiber,421.81,64.83,17.35,li-ion,270W,5.92
+mountain,aluminum,561.08,40.67,24.7,-,203W,6.8
+folding,carbon fiber,566.78,67.05,31.11,lead acid,220W,5.72
+mountain,carbon fiber,410.11,68.4,28.07,nimh,359W,8.16
+folding,steel,329.66,50.59,17.96,lead acid,199W,4.72
+road,carbon fiber,687.14,67.92,18.25,lead acid,193W,6.78
+folding,carbon fiber,627.41,65.2,27.49,nimh,307W,5.87
+standard,carbon fiber,247.42,81.72,26.8,li-ion,293W,5.08
+road,carbon fiber,281.94,52.2,18.64,lead acid,272W,6.82
+standard,carbon fiber,465.63,56.85,23.31,lead acid,306W,5.89
+folding,carbon fiber,527.76,48.8,29.08,li-ion,248W,9.47
+road,aluminum,760.68,56.16,26.5,nimh,175W,7.98
+folding,carbon fiber,731.27,86.19,27.83,nimh,216W,9.03
+folding,STEel,619.91,60.42,22.11,li-ion,228W,5.63
+standard,carbon fiber,282.54,87.86,28.64,nimh,330W,4.9
+standard,steel,272.64,57.75,37.23,nimh,253W,6.56
+road,steel,331.17,71.14,26.32,lead acid,280W,4.02
+folding,carbon fiber,621.71,64.08,25.2,lead acid,224W,7.4
+folding,aluminum,374.39,43.2,32.0,-,184W,7.49
+road,aluminum,722.56,74.63,29.33,nimh,266W,9.1
+mountain,carbon fiber,622.01,60.46,18.36,li-ion,288W,7.41
+standard,carbon fiber,349.77,74.75,19.79,-,241W,5.52
+road,steel,349.17,78.63,23.28,nimh,245W,7.18
+standard,aluminum,500.75,51.44,25.3,li-ion,230W,4.99
+standard,aluminum,651.73,58.93,26.95,nimh,235W,6.3
+mountain,aluminum,234.82,33.47,27.77,nimh,255W,4.44
+mountain,aluminum,784.69,60.56,27.74,lead acid,390W,7.27
+road,steel,567.08,51.45,18.42,lead acid,302W,6.79
+mountain,aluminum,585.69,76.05,24.06,li-ion,295W,6.11
+road,steel,574.29,76.93,22.72,lead acid,212W,6.66
+folding,aluminum,554.48,27.0,,nimh,260W,4.09
+folding,steel,669.73,52.8,16.26,lead acid,287W,5.85
+standard,steel,749.27,73.01,30.41,lead acid,138W,6.84
+mountain,STEel,535.27,59.58,34.21,lead acid,229W,8.92
+mountain,steel,626.51,41.58,25.34,lead acid,258W,6.83
+mountain,carbon fiber,574.59,76.05,,nimh,247W,5.5
+folding,aluminum,408.0,59.03,16.92,lead acid,163W,6.42
+standard,steel,381.89,77.12,25.85,nimh,258W,5.46
+mountain,aluminum,457.23,40.45,22.62,nimh,247W,5.37
+mountain,carbon fiber,326.06,45.59,18.68,lead acid,293W,4.9
+standard,steel,545.17,47.29,22.71,lead acid,161W,7.42
+folding,carbon fiber,235.72,29.95,19.11,nimh,210W,4.7
+folding,steel,694.65,52.55,22.64,nimh,259W,7.55
+standard,carbon fiber,582.69,82.01,21.46,-,329W,5.65
+mountain,carbon fiber,787.69,64.39,32.98,nimh,297W,6.5
+folding,aluminum,669.13,86.14,22.8,nimh,244W,7.61
+standard,aluminum,488.74,69.88,26.15,li-ion,218W,9.67
+folding,aluminum,555.08,41.62,27.74,lead acid,216W,6.44
+folding,steel,617.21,34.57,,li-ion,260W,6.73
+mountain,carbon fiber,745.97,72.55,24.07,li-ion,282W,8.58
+standard,steel,270.24,59.47,26.36,nimh,255W,3.85
+road,steel,447.92,67.77,14.19,nimh,200W,3.3
+road,aluminum,781.99,57.69,32.2,nimh,182W,7.9
+folding,aluminum,284.94,61.69,22.42,nimh,377W,4.89
+folding,aluminum,378.89,66.48,33.81,nimh,275W,4.2
+mountain,carbon fiber,292.75,22.41,23.89,-,291W,4.21
+standard,steel,297.55,76.98,16.95,nimh,221W,4.66
+road,carbon fiber,265.73,50.33,30.07,lead acid,259W,5.16
+folding,carbon fiber,307.15,35.98,22.17,nimh,242W,5.09
+road,aluminum,769.68,47.44,30.17,nimh,328W,8.46
+mountain,carbon fiber,715.06,93.33,25.42,nimh,195W,8.37
+mountain,steel,740.87,49.46,16.41,lead acid,379W,8.15
+folding,aluminum,647.52,73.2,26.76,lead acid,181W,8.37
+road,aluminum,528.36,71.17,33.19,lead acid,262W,7.26
+folding,aluminum,711.16,83.67,30.9,lead acid,206W,10.44
+standard,steel,733.97,32.06,20.48,nimh,281W,7.69
+mountain,carbon fiber,677.54,62.64,25.48,lead acid,260W,6.55
+standard,carbon fiber,587.19,55.07,29.37,lead acid,297W,4.71
+standard,steel,622.91,98.03,,lead acid,159W,5.47
+standard,carbon fiber,706.65,47.75,31.42,nimh,222W,8.74
+road,carbon fiber,330.87,43.58,17.44,li-ion,303W,4.2
+standard,aluminum,787.39,51.37,24.49,li-ion,134W,7.58
+mountain,steel,624.41,61.95,26.23,nimh,299W,6.78
+mountain,steel,268.13,66.37,20.06,li-ion,260W,7.42
+mountain,aluminum,762.48,61.89,24.89,lead acid,221W,6.58
+folding,steel,679.64,100.38,27.2,nimh,208W,6.11
+road,aluminum,576.09,38.39,28.87,nimh,238W,6.92
+folding,steel,780.79,23.0,24.68,-,265W,5.88
+folding,aluminum,438.02,38.53,20.56,li-ion,181W,5.93
+standard,steel,788.89,65.93,18.92,li-ion,215W,8.53
+folding,carbon fiber,774.79,22.22,34.99,nimh,259W,6.45
+folding,steel,499.25,52.14,33.09,lead acid,225W,6.63
+mountain,steel,423.91,58.71,32.41,lead acid,254W,7.2
+folding,steel,618.71,49.52,21.62,lead acid,218W,6.39
+road,aluminum,717.46,63.73,24.38,nimh,260W,6.51
+mountain,steel,744.77,69.35,24.18,li-ion,303W,8.07
+road,carbon fiber,798.2,50.87,33.96,li-ion,231W,6.9
+road,steel,544.27,72.74,23.66,li-ion,321W,9.97
+standard,steel,442.52,41.63,29.5,nimh,283W,4.34
+folding,steel,616.61,55.31,31.42,nimh,227W,6.25
+road,carbon fiber,404.4,63.19,38.14,lead acid,223W,8.3
+folding,carbon fiber,703.05,20.0,30.47,lead acid,327W,8.77
+road,carbon fiber,416.71,73.08,28.25,lead acid,355W,8.4
+standard,steel,358.18,54.71,22.85,nimh,203W,4.29
+standard,aluminum,408.9,57.64,21.67,nimh,257W,8.4
+folding,carbon fiber,357.58,65.52,23.2,lead acid,258W,5.54
+road,steel,450.93,72.18,25.05,nimh,247W,5.42
+folding,steel,309.55,54.51,16.6,nimh,207W,4.29
+mountain,aluminum,242.92,52.32,26.85,lead acid,225W,4.29
+folding,steel,235.42,69.27,27.95,lead acid,248W,5.62
+folding,aluminum,512.76,53.51,27.73,nimh,177W,5.48
+mountain,carbon fiber,329.36,62.71,26.55,nimh,317W,3.42
+folding,carbon fiber,557.78,46.01,24.99,li-ion,347W,6.32
+standard,aluminum,534.07,70.83,32.3,li-ion,173W,4.6
+standard,aluminum,429.91,56.04,26.92,lead acid,245W,8.1
+mountain,aluminum,334.47,75.21,23.91,lead acid,252W,4.99
+mountain,steel,700.05,66.37,27.06,lead acid,310W,6.74
+folding,steel,573.69,36.23,27.86,nimh,148W,9.17
+road,aluminum,327.26,66.96,25.1,lead acid,254W,5.15
+standard,carbon fiber,482.44,66.92,22.35,nimh,232W,6.52
+mountain,steel,728.86,34.14,16.09,nimh,239W,8.34
+folding,steel,290.65,44.15,32.19,lead acid,176W,4.71
+standard,steel,393.0,45.04,23.23,li-ion,257W,7.61
+road,aluminum,479.14,53.33,26.24,nimh,313W,6.13
+folding,carbon fiber,654.73,60.59,27.0,li-ion,177W,7.93
+folding,carbon fiber,280.74,57.78,25.84,nimh,282W,5.2
+standard,carbon fiber,741.77,70.63,23.45,li-ion,279W,8.51
+folding,steel,474.64,52.78,27.12,nimh,184W,6.96
+mountain,carbon fiber,313.76,43.57,24.49,li-ion,303W,5.54
+mountain,aluminum,495.65,86.22,26.12,-,226W,9.37
+folding,carbon fiber,642.72,52.35,26.89,lead acid,292W,6.14
+road,steel,532.57,61.37,19.71,nimh,230W,5.91
+folding,carbon fiber,392.4,54.71,23.33,nimh,230W,7.49
+standard,aluminum,767.28,52.02,26.13,lead acid,247W,8.52
+folding,steel,206.6,72.78,24.43,nimh,108W,5.98
+standard,steel,585.99,56.37,19.47,lead acid,311W,5.39
+road,aluminum,258.83,64.66,16.62,lead acid,277W,3.61
+mountain,steel,464.73,65.15,27.88,-,303W,7.49
+road,steel,511.86,56.17,32.15,lead acid,250W,5.67
+folding,aluminum,603.4,57.46,31.03,nimh,231W,6.51
+mountain,aluminum,682.94,87.68,17.57,lead acid,194W,6.69
+road,aluminum,695.85,70.83,30.73,-,265W,8.44
+mountain,carbon fiber,246.22,71.3,29.49,lead acid,286W,7.58
+folding,carbon fiber,365.68,82.96,19.07,li-ion,253W,5.61
+standard,carbon fiber,564.08,63.11,34.81,lead acid,216W,7.37
+road,carbon fiber,714.46,77.73,28.48,lead acid,344W,6.85
+mountain,carbon fiber,205.1,50.48,23.78,li-ion,335W,7.12
+road,carbon fiber,742.37,72.1,25.8,li-ion,265W,8.68
+road,steel,775.99,45.65,27.62,li-ion,300W,10.59
+folding,aluminum,505.85,61.06,27.22,lead acid,255W,3.65
+mountain,aluminum,288.84,44.62,25.07,li-ion,205W,6.15
+road,steel,679.04,52.5,35.61,lead acid,197W,7.33
+mountain,aluminum,345.87,73.46,32.62,lead acid,208W,5.78
+mountain,steel,316.76,53.18,21.3,lead acid,183W,4.15
+folding,steel,359.08,40.28,12.85,lead acid,309W,7.54
+standard,steel,612.71,69.78,19.03,li-ion,260W,3.1
+road,steel,489.34,64.46,26.42,nimh,309W,8.41
+standard,carbon fiber,418.81,42.77,30.33,li-ion,259W,6.3
+road,STEel,447.62,77.7,27.95,lead acid,232W,7.44
+mountain,steel,417.61,52.95,13.83,nimh,226W,7.11
+mountain,aluminum,564.98,22.96,22.21,lead acid,234W,7.42
+road,steel,630.12,63.9,22.18,nimh,144W,7.07
+road,aluminum,350.08,59.66,28.6,nimh,292W,5.22
+folding,carbon fiber,261.83,93.33,25.18,nimh,234W,4.35
+road,carbon fiber,661.93,68.39,27.4,lead acid,120W,3.79
+mountain,aluminum,735.17,63.58,18.34,nimh,224W,4.89
+standard,carbon fiber,481.24,75.53,33.57,li-ion,214W,9.7
+mountain,steel,720.76,45.75,34.22,nimh,285W,9.86
+folding,steel,656.53,54.28,23.01,lead acid,248W,9.86
+road,steel,770.29,54.97,24.54,lead acid,190W,7.62
+road,steel,723.16,57.83,,li-ion,222W,5.89
+road,steel,485.44,35.33,13.11,nimh,298W,4.13
+folding,carbon fiber,209.3,35.21,24.03,li-ion,276W,6.4
+road,carbon fiber,260.33,56.85,16.33,lead acid,246W,6.62
+road,aluminum,311.96,33.87,17.29,-,248W,6.81
+folding,steel,424.51,63.44,27.57,nimh,232W,8.23
+mountain,carbon fiber,676.04,69.19,32.98,lead acid,296W,6.23
+road,carbon fiber,224.61,58.49,28.23,lead acid,182W,6.28
+standard,steel,588.69,45.56,24.8,lead acid,270W,7.22
+standard,steel,671.24,85.63,27.66,li-ion,199W,7.09
+folding,steel,253.43,56.85,20.97,li-ion,271W,6.14
+mountain,aluminum,285.54,61.35,24.07,nimh,185W,3.16
+standard,carbon fiber,284.04,52.18,29.41,nimh,287W,3.83
+road,steel,285.84,64.98,30.89,li-ion,353W,7.11
+standard,carbon fiber,389.99,42.23,23.17,nimh,213W,5.84
+mountain,aluminum,573.39,34.39,18.57,lead acid,228W,4.03
+road,carbon fiber,727.96,90.78,19.45,-,334W,7.9
+road,carbon fiber,559.88,52.65,31.91,lead acid,293W,8.16
+standard,aluminum,282.84,51.55,23.6,lead acid,251W,4.3
+mountain,carbon fiber,490.25,33.65,25.78,nimh,260W,7.65
+road,aluminum,335.37,56.84,24.75,li-ion,298W,4.32
+folding,aluminum,455.13,57.96,25.67,lead acid,207W,6.35
+mountain,carbon fiber,203.0,75.96,15.3,lead acid,313W,7.08
+mountain,aluminum,490.55,72.37,,nimh,271W,4.42
+road,STEel,427.51,64.72,19.06,nimh,259W,4.33
+folding,steel,497.45,66.59,19.43,li-ion,234W,6.38
+road,carbon fiber,460.83,84.48,25.2,li-ion,227W,7.02
+road,carbon fiber,712.66,43.52,24.09,lead acid,296W,7.57
+standard,aluminum,640.02,41.55,19.24,nimh,239W,7.94
+mountain,carbon fiber,263.63,40.17,21.24,lead acid,287W,5.56
+folding,aluminum,373.19,70.48,19.07,li-ion,293W,6.7
+standard,carbon fiber,511.26,65.5,32.12,nimh,233W,6.25
+folding,aluminum,247.12,80.94,25.56,nimh,271W,7.66
+folding,steel,613.31,41.47,27.39,nimh,251W,6.91
+road,aluminum,231.52,40.04,30.36,lead acid,220W,3.13
+road,aluminum,751.08,60.29,19.46,li-ion,311W,8.35
+road,steel,437.42,99.52,27.74,li-ion,255W,4.57
+standard,steel,415.21,82.69,25.94,nimh,257W,7.03
+mountain,carbon fiber,566.48,54.64,29.29,li-ion,249W,7.21
+standard,aluminum,373.79,48.66,22.92,li-ion,317W,4.83
+standard,steel,575.79,52.85,24.09,-,187W,5.55
+folding,aluminum,244.12,47.63,21.54,li-ion,199W,5.34
+mountain,steel,413.41,52.55,31.99,nimh,222W,4.1
+folding,aluminum,416.11,83.12,21.65,li-ion,312W,7.25
+standard,carbon fiber,683.24,67.71,28.03,li-ion,182W,5.33
+folding,carbon fiber,512.46,74.48,17.93,nimh,270W,5.53
+folding,steel,586.29,73.7,27.3,lead acid,241W,5.77
+mountain,steel,774.49,44.64,17.18,nimh,235W,7.81
+folding,steel,547.87,50.07,21.78,li-ion,211W,7.76
+mountain,aluminum,359.98,41.11,27.7,li-ion,289W,6.03
+road,aluminum,691.05,63.37,27.63,nimh,313W,8.34
+road,carbon fiber,791.3,74.09,22.18,li-ion,258W,6.12
+standard,aluminum,274.14,63.49,19.59,li-ion,220W,4.28
+standard,carbon fiber,374.69,53.45,18.77,nimh,291W,4.87
+standard,steel,702.75,78.8,22.52,-,212W,7.38
+standard,aluminum,578.79,59.62,21.65,li-ion,226W,5.72
+standard,carbon fiber,257.63,54.82,20.19,li-ion,314W,6.06
+road,carbon fiber,250.73,50.09,33.06,lead acid,297W,6.64
+mountain,aluminum,389.39,65.13,27.55,li-ion,324W,7.73
+road,carbon fiber,387.29,77.67,18.84,-,258W,5.01
+standard,steel,284.64,59.85,17.13,nimh,242W,5.68
+mountain,aluminum,637.02,95.76,14.56,li-ion,223W,6.88
+folding,steel,301.45,46.57,22.88,lead acid,202W,3.66
+mountain,steel,316.46,59.75,26.07,-,313W,3.94
+road,aluminum,425.11,74.54,29.45,lead acid,298W,6.94
+mountain,steel,244.72,55.59,20.22,nimh,293W,3.92
+folding,aluminum,365.38,22.31,,li-ion,314W,4.98
+mountain,carbon fiber,206.9,47.93,30.13,nimh,252W,7.05
+mountain,steel,286.14,86.93,,lead acid,339W,3.73
+folding,aluminum,692.25,37.84,21.25,li-ion,255W,3.41
+folding,carbon fiber,734.57,65.24,12.82,lead acid,347W,6.69
+folding,carbon fiber,673.34,38.41,,lead acid,276W,8.9
+mountain,carbon fiber,626.81,39.09,20.48,lead acid,244W,5.62
+standard,aluminum,338.67,39.57,,nimh,236W,3.92
+folding,STEel,753.48,46.24,23.71,lead acid,234W,7.93
+standard,carbon fiber,582.39,50.15,32.62,li-ion,206W,6.38
+folding,aluminum,354.28,63.17,31.56,nimh,212W,6.32
+folding,carbon fiber,615.41,64.39,17.31,li-ion,188W,6.18
+standard,carbon fiber,746.27,44.37,21.9,li-ion,297W,6.52
+folding,steel,586.89,48.07,25.85,lead acid,267W,4.06
+standard,steel,226.11,44.68,21.76,nimh,268W,6.0
+mountain,steel,457.53,86.58,24.16,li-ion,274W,4.39
+mountain,steel,791.6,75.38,22.23,nimh,256W,7.94
+standard,steel,635.22,53.02,21.03,li-ion,366W,8.58
+road,steel,778.69,37.05,26.06,lead acid,268W,9.5
+standard,aluminum,402.6,42.8,18.73,lead acid,277W,4.97
+mountain,steel,399.3,87.05,19.02,lead acid,300W,7.51
+folding,steel,777.79,73.54,28.52,li-ion,251W,8.57
+folding,steel,588.09,70.41,21.99,li-ion,247W,7.93
+mountain,steel,628.61,56.66,33.27,lead acid,247W,6.17
+folding,steel,396.6,50.6,17.52,li-ion,207W,7.31
+mountain,aluminum,469.23,49.67,22.07,li-ion,232W,5.93
+folding,aluminum,558.98,65.43,16.97,lead acid,228W,6.47
+road,steel,520.26,56.78,25.52,lead acid,236W,7.75
+mountain,aluminum,476.14,48.49,22.84,li-ion,239W,7.3
+road,steel,721.66,63.51,26.36,nimh,176W,7.1
+mountain,steel,375.29,50.13,26.52,lead acid,209W,4.5
+folding,steel,761.28,52.58,29.22,lead acid,247W,8.84
+folding,carbon fiber,643.92,47.46,24.01,nimh,261W,7.41
+mountain,steel,229.11,31.98,32.47,li-ion,176W,6.56
+folding,aluminum,363.28,33.45,25.38,lead acid,176W,7.59
+mountain,aluminum,415.51,83.56,24.19,nimh,270W,7.07
+standard,steel,728.26,79.99,24.79,lead acid,242W,8.21
+road,carbon fiber,557.48,41.7,28.94,nimh,251W,6.24
+folding,aluminum,360.28,39.88,25.73,nimh,185W,6.61
+mountain,steel,725.86,62.15,28.99,lead acid,338W,7.22
+standard,steel,670.94,78.11,35.35,nimh,307W,8.96
+mountain,carbon fiber,678.14,63.69,25.04,lead acid,306W,5.68
+mountain,steel,370.49,75.35,21.95,li-ion,231W,6.77
+mountain,carbon fiber,601.3,73.53,20.86,lead acid,248W,6.81
+folding,steel,766.38,74.6,32.5,li-ion,365W,10.02
+folding,aluminum,659.53,59.09,24.83,lead acid,242W,8.78
+standard,aluminum,335.67,60.78,24.99,nimh,377W,3.73
+standard,aluminum,609.4,85.48,20.97,li-ion,322W,7.36
+mountain,aluminum,503.15,76.56,21.88,nimh,366W,3.69
+folding,steel,264.23,45.77,26.19,li-ion,231W,6.67
+mountain,aluminum,584.19,70.83,37.77,nimh,222W,7.48
+standard,steel,501.95,52.87,20.04,nimh,252W,4.81
+road,aluminum,287.34,72.18,28.64,-,230W,5.42
+standard,steel,311.06,52.83,22.43,lead acid,235W,6.92
+standard,steel,361.18,47.59,21.43,lead acid,370W,6.28
+mountain,steel,303.85,39.06,15.13,lead acid,163W,6.4
+mountain,steel,604.0,43.22,30.65,lead acid,244W,7.25
+folding,steel,243.52,75.87,31.18,li-ion,257W,4.44
+standard,steel,554.18,70.37,21.6,nimh,190W,6.17
+folding,carbon fiber,625.01,57.45,25.53,lead acid,172W,6.46
+standard,steel,252.83,20.0,22.54,lead acid,280W,5.9
+road,aluminum,602.5,73.34,17.73,li-ion,255W,8.35
+mountain,steel,358.78,71.81,25.99,-,335W,7.81
+mountain,aluminum,722.26,46.82,25.97,li-ion,193W,8.27
+road,steel,296.35,86.29,20.93,-,230W,6.31
+mountain,steel,722.86,51.77,36.25,lead acid,227W,8.18
+road,steel,772.69,62.44,19.95,lead acid,286W,7.68
+mountain,aluminum,664.63,54.6,23.94,nimh,267W,8.26
+standard,aluminum,409.2,38.64,27.18,lead acid,282W,4.14
+folding,carbon fiber,295.75,65.7,30.31,nimh,222W,4.41
+standard,carbon fiber,522.66,68.19,14.86,lead acid,209W,5.82
+folding,steel,466.23,44.5,23.96,li-ion,279W,6.07
+mountain,carbon fiber,293.05,20.85,25.72,nimh,241W,7.58
+road,aluminum,516.66,55.07,25.77,li-ion,339W,6.85
+mountain,STEel,692.55,28.34,26.25,li-ion,311W,7.2
+standard,aluminum,344.07,52.93,21.25,li-ion,316W,4.88
+standard,steel,603.1,59.44,22.54,li-ion,300W,5.6
+folding,aluminum,668.83,62.53,17.57,lead acid,246W,7.39
+road,carbon fiber,475.54,28.05,27.19,lead acid,314W,6.72
+mountain,carbon fiber,549.37,66.8,28.47,lead acid,258W,7.78
+folding,aluminum,755.58,37.48,34.59,li-ion,200W,6.9
+mountain,carbon fiber,639.12,59.32,27.98,lead acid,257W,8.25
+mountain,carbon fiber,496.55,64.15,36.28,nimh,201W,7.06
+folding,aluminum,206.0,42.77,22.79,li-ion,217W,5.39
+standard,carbon fiber,384.59,55.75,22.27,lead acid,341W,4.94
+mountain,steel,396.0,51.49,20.5,nimh,314W,4.57
+road,carbon fiber,661.63,71.69,15.55,li-ion,299W,5.88
+road,carbon fiber,212.31,54.93,27.75,li-ion,287W,6.72
+folding,steel,353.38,70.07,30.28,nimh,289W,4.55
+mountain,aluminum,637.92,55.35,21.96,li-ion,211W,7.09
+mountain,carbon fiber,750.78,68.26,30.76,lead acid,208W,5.71
+standard,steel,452.73,85.63,23.58,nimh,265W,5.24
+standard,steel,608.8,70.2,25.05,nimh,272W,6.13
+standard,steel,263.93,21.42,,li-ion,210W,4.66
+mountain,carbon fiber,603.7,43.95,23.69,li-ion,251W,5.9
+mountain,aluminum,619.01,65.5,16.16,nimh,286W,7.12
+standard,carbon fiber,625.31,43.12,28.07,lead acid,237W,7.93
+mountain,carbon fiber,298.15,53.61,23.01,lead acid,194W,5.06
+standard,steel,488.14,57.87,10.81,li-ion,249W,7.37
+road,carbon fiber,607.6,56.72,27.75,li-ion,292W,5.24
+standard,carbon fiber,717.16,114.5,21.04,-,264W,5.45
+folding,carbon fiber,383.39,64.03,29.97,lead acid,217W,5.96
+mountain,carbon fiber,471.94,66.99,19.31,nimh,228W,6.66
+folding,carbon fiber,212.61,56.24,15.16,nimh,227W,7.66
+road,steel,605.8,80.28,22.69,nimh,254W,8.61
+folding,carbon fiber,649.92,53.9,28.55,lead acid,351W,7.18
+mountain,steel,371.09,76.33,32.2,lead acid,206W,6.97
+mountain,aluminum,389.09,49.19,16.87,li-ion,280W,8.83
+folding,aluminum,758.58,59.89,28.61,lead acid,304W,7.03
+standard,aluminum,419.11,64.55,27.95,lead acid,229W,7.16
+standard,carbon fiber,773.59,57.05,27.57,li-ion,254W,5.9
+standard,aluminum,448.82,57.85,21.91,lead acid,341W,6.13
+folding,carbon fiber,564.68,60.88,26.63,lead acid,344W,7.39
+standard,steel,492.95,73.16,28.34,li-ion,244W,5.83
+mountain,carbon fiber,477.04,47.06,30.46,lead acid,264W,7.83
+folding,carbon fiber,332.37,64.67,26.53,li-ion,251W,6.2
+mountain,steel,685.94,58.65,25.61,nimh,220W,7.04
+folding,steel,723.76,54.06,26.17,nimh,292W,6.26
+road,aluminum,665.83,49.12,32.76,nimh,338W,7.07
+road,aluminum,207.8,63.19,40.16,li-ion,305W,7.93
+mountain,steel,200.9,50.31,20.67,nimh,223W,6.44
+folding,aluminum,440.72,79.28,18.56,lead acid,196W,5.09
+folding,carbon fiber,792.8,48.75,22.03,lead acid,178W,6.17
+road,aluminum,730.07,84.68,28.16,li-ion,151W,7.64
+folding,steel,278.34,54.04,21.74,li-ion,286W,3.95
+mountain,steel,228.21,64.82,,nimh,247W,5.97
+folding,aluminum,351.28,51.46,23.58,lead acid,375W,7.2
+road,aluminum,294.85,46.12,18.83,li-ion,229W,6.16
+road,carbon fiber,637.62,80.87,20.98,li-ion,288W,8.59
+folding,steel,372.59,66.84,32.09,nimh,311W,6.94
+mountain,carbon fiber,675.74,60.99,24.18,lead acid,308W,8.13
+standard,STEel,445.82,34.91,25.82,nimh,275W,7.44
+standard,aluminum,543.97,85.91,33.45,nimh,141W,5.89
+standard,carbon fiber,474.94,59.73,24.97,li-ion,226W,7.28
+folding,steel,450.03,73.46,21.39,lead acid,284W,5.47
+standard,steel,610.61,20.0,23.2,li-ion,157W,7.57
+standard,carbon fiber,262.13,60.99,30.2,lead acid,266W,5.24
+standard,carbon fiber,522.96,65.51,28.49,li-ion,226W,4.03
+folding,aluminum,794.0,75.23,26.77,nimh,318W,10.37
+standard,carbon fiber,478.84,60.78,28.96,nimh,218W,6.06
+road,aluminum,515.46,53.2,20.87,nimh,243W,5.81
+road,carbon fiber,516.36,67.11,,li-ion,230W,8.02
+road,steel,799.1,49.38,25.8,nimh,316W,7.77
+standard,carbon fiber,676.34,41.61,23.14,li-ion,244W,7.79
+mountain,steel,233.02,65.51,34.82,lead acid,241W,5.77
+folding,steel,299.05,68.45,22.5,li-ion,147W,4.9
+road,steel,531.07,55.72,19.42,lead acid,213W,9.87
+road,STEel,534.37,75.4,24.36,lead acid,175W,5.1
+mountain,steel,544.87,67.52,27.51,nimh,260W,5.46
+standard,aluminum,282.24,45.63,24.79,nimh,198W,8.28
+road,steel,655.33,59.28,20.81,li-ion,179W,6.74
+folding,steel,676.64,64.27,28.52,lead acid,235W,7.47
+mountain,aluminum,306.85,58.46,23.83,nimh,241W,5.01
+folding,carbon fiber,250.13,51.7,33.35,nimh,213W,3.34
+folding,steel,594.4,66.94,32.3,li-ion,176W,5.57
+road,steel,235.12,69.79,27.02,nimh,223W,2.94
+road,carbon fiber,601.0,56.95,31.13,li-ion,256W,9.29
+road,carbon fiber,650.23,62.86,14.42,lead acid,248W,6.16
+road,steel,780.19,48.33,22.26,li-ion,229W,9.74
+standard,aluminum,450.63,66.56,,-,299W,5.43
+road,steel,552.38,51.59,30.33,lead acid,221W,5.12
+mountain,steel,227.91,67.75,30.51,li-ion,251W,4.49
+standard,carbon fiber,307.45,47.51,28.61,-,286W,4.5
+standard,aluminum,653.53,81.05,26.14,li-ion,308W,8.12
+mountain,carbon fiber,407.7,67.5,19.33,li-ion,180W,6.11
+standard,carbon fiber,580.29,52.21,32.19,li-ion,170W,7.18
+mountain,aluminum,372.29,62.23,23.43,nimh,217W,7.75
+standard,aluminum,681.14,84.91,31.81,nimh,225W,5.74
+folding,aluminum,786.49,59.97,22.1,nimh,248W,6.32
+folding,aluminum,685.64,66.72,30.93,lead acid,113W,7.89
+standard,carbon fiber,330.57,71.41,32.39,nimh,281W,6.52
+road,aluminum,739.07,60.13,33.03,-,283W,8.38
+folding,aluminum,362.08,56.23,35.48,lead acid,254W,5.71
+standard,carbon fiber,712.96,40.07,30.81,lead acid,362W,6.0
+folding,carbon fiber,729.76,59.79,29.07,nimh,199W,7.0
+standard,steel,793.7,53.19,17.03,li-ion,194W,8.02
+mountain,steel,338.97,49.2,28.48,nimh,222W,6.08
+standard,aluminum,414.61,79.14,22.55,li-ion,317W,5.29
+standard,steel,532.87,51.93,32.99,nimh,309W,5.48
+folding,carbon fiber,623.51,62.11,24.25,lead acid,208W,8.5
+folding,steel,231.82,73.76,16.87,nimh,295W,6.1
+mountain,aluminum,500.45,56.76,24.16,li-ion,281W,4.33
+folding,carbon fiber,764.88,45.55,19.11,li-ion,256W,8.07
+road,steel,224.01,63.47,28.56,li-ion,280W,4.03
+standard,aluminum,736.97,68.74,18.91,nimh,277W,6.67
+folding,carbon fiber,558.68,91.97,28.94,nimh,224W,8.55
+mountain,steel,776.29,48.79,18.59,li-ion,193W,8.65
+mountain,carbon fiber,469.83,70.44,22.31,lead acid,267W,5.41
+road,aluminum,209.0,49.16,27.8,nimh,342W,4.71
+standard,carbon fiber,202.7,76.59,20.69,li-ion,255W,5.32
+standard,steel,540.07,56.92,25.83,lead acid,278W,4.89
+mountain,carbon fiber,539.17,46.25,,-,226W,6.07
+folding,steel,353.08,64.19,13.81,nimh,271W,3.2
+standard,carbon fiber,651.13,80.28,24.42,li-ion,231W,10.23
+mountain,aluminum,371.99,37.4,25.1,li-ion,174W,5.13
+standard,aluminum,434.42,43.54,21.49,li-ion,321W,7.48
+road,steel,269.63,47.11,28.04,nimh,310W,6.0
+mountain,steel,308.95,61.27,24.32,lead acid,309W,7.82
+road,steel,346.47,77.31,21.14,nimh,158W,2.72
+road,carbon fiber,668.23,71.09,22.81,li-ion,273W,8.95
+folding,aluminum,435.02,59.13,24.01,nimh,234W,8.92
+mountain,steel,635.52,48.45,33.35,lead acid,234W,6.76
+standard,aluminum,634.32,44.17,31.92,lead acid,228W,7.62
+folding,carbon fiber,459.63,43.27,18.67,li-ion,232W,6.32
+mountain,STEel,596.5,91.8,,lead acid,230W,7.64
+road,aluminum,479.44,68.17,,nimh,207W,4.82
+road,steel,210.81,58.0,32.98,nimh,298W,3.28
+road,aluminum,424.81,70.58,23.51,lead acid,157W,7.48
+road,aluminum,606.1,50.08,28.13,li-ion,365W,5.25
+road,aluminum,769.38,70.35,22.73,lead acid,297W,7.4
+folding,steel,590.5,57.55,22.73,nimh,264W,8.09
+standard,steel,672.74,66.44,29.77,li-ion,220W,7.44
+folding,steel,445.52,52.85,27.63,li-ion,332W,6.44
+road,carbon fiber,724.96,80.58,21.38,lead acid,150W,7.77
+road,aluminum,221.01,63.07,26.97,li-ion,306W,7.87
+mountain,aluminum,540.37,43.85,24.92,nimh,214W,5.26
+standard,aluminum,274.44,62.73,29.46,li-ion,211W,4.82
+mountain,carbon fiber,331.47,82.65,28.65,lead acid,304W,3.61
+folding,aluminum,628.31,93.9,23.51,li-ion,236W,6.21
+mountain,STEel,718.36,54.99,23.91,lead acid,330W,8.18
+standard,steel,266.33,67.04,33.23,lead acid,230W,5.85
+road,carbon fiber,340.47,40.34,,li-ion,257W,6.48
+road,steel,367.48,94.87,28.3,lead acid,236W,7.85
+road,carbon fiber,364.48,57.68,22.86,lead acid,325W,4.38
+mountain,aluminum,512.16,58.37,26.67,lead acid,238W,6.68
+standard,STEel,649.32,57.51,18.46,li-ion,252W,6.6
+mountain,carbon fiber,525.96,28.45,20.59,li-ion,212W,5.87
+road,carbon fiber,443.42,91.13,29.85,li-ion,314W,6.89
+mountain,aluminum,541.27,78.44,23.74,nimh,280W,8.43
+mountain,steel,435.62,54.95,21.22,nimh,281W,3.36
+road,carbon fiber,677.24,65.99,15.14,nimh,225W,6.07
+standard,steel,540.97,55.84,15.6,lead acid,293W,8.39
+mountain,steel,449.72,80.11,22.36,li-ion,295W,5.62
+standard,steel,665.23,60.82,26.8,lead acid,201W,7.96
+mountain,aluminum,336.57,68.9,23.08,lead acid,247W,5.6
+folding,steel,640.62,46.83,25.36,-,249W,7.3
+mountain,carbon fiber,558.08,51.03,28.04,lead acid,330W,7.9
+mountain,aluminum,242.62,92.61,22.93,lead acid,321W,4.04
+standard,steel,761.88,25.39,16.12,li-ion,284W,8.0
+standard,carbon fiber,694.95,65.98,35.07,li-ion,213W,8.2
+mountain,steel,209.9,101.32,33.73,lead acid,269W,3.39
+folding,steel,572.79,36.82,25.88,li-ion,298W,3.98
+folding,steel,200.0,80.68,25.09,lead acid,287W,5.37
+mountain,steel,605.2,47.13,24.18,-,164W,5.82
+standard,carbon fiber,705.75,73.26,27.39,li-ion,244W,6.64
+standard,steel,278.64,59.48,34.96,nimh,210W,8.04
+road,carbon fiber,411.01,84.19,26.3,li-ion,289W,5.34
+mountain,steel,693.75,45.28,17.07,lead acid,233W,5.2
+standard,carbon fiber,614.81,110.56,25.06,lead acid,177W,9.43
+road,carbon fiber,318.56,62.3,26.52,lead acid,278W,3.91
+folding,carbon fiber,210.51,37.54,26.18,li-ion,246W,5.35
+road,carbon fiber,446.12,59.18,29.45,nimh,204W,7.93
+standard,aluminum,263.03,45.92,29.57,lead acid,232W,7.73
+road,carbon fiber,744.47,48.32,24.6,nimh,204W,9.87
+road,steel,579.39,71.89,18.56,nimh,348W,6.43
+folding,steel,335.97,77.31,,lead acid,241W,5.37
+standard,carbon fiber,797.3,62.23,18.18,li-ion,169W,7.87
+folding,STEel,337.17,63.86,22.5,nimh,324W,4.38
+mountain,steel,302.35,56.67,18.79,-,300W,5.63
+mountain,carbon fiber,637.32,35.64,35.51,nimh,199W,5.46
+road,carbon fiber,444.92,44.32,25.76,li-ion,151W,7.32
+folding,aluminum,664.03,59.4,23.77,li-ion,216W,8.95
+road,aluminum,582.99,50.33,27.33,nimh,243W,5.66
+folding,carbon fiber,285.24,69.12,13.13,li-ion,287W,6.81
+road,aluminum,249.22,52.23,23.65,nimh,229W,7.62
+road,aluminum,267.23,39.35,24.46,nimh,234W,4.02
+road,aluminum,236.32,87.22,,nimh,314W,4.83
+mountain,aluminum,559.58,39.07,28.22,li-ion,169W,8.46
+mountain,carbon fiber,468.03,88.51,23.23,lead acid,271W,5.05
+mountain,aluminum,549.07,68.95,23.42,lead acid,209W,5.18
+folding,steel,472.24,67.91,30.32,li-ion,272W,7.35
+folding,aluminum,459.93,90.52,24.61,lead acid,241W,5.38
+road,steel,438.32,55.32,32.44,li-ion,290W,6.37
+standard,steel,641.52,73.06,29.93,nimh,286W,7.58
+road,steel,271.74,53.55,28.86,li-ion,275W,4.26
+standard,steel,702.45,58.05,24.21,lead acid,302W,7.26
+folding,carbon fiber,498.05,62.42,15.97,-,315W,6.52
+mountain,aluminum,569.18,86.76,22.9,lead acid,264W,6.32
+mountain,aluminum,748.97,88.23,32.54,nimh,230W,9.61
+standard,carbon fiber,375.89,54.49,20.11,lead acid,202W,8.25
+folding,aluminum,727.66,65.56,30.24,nimh,220W,9.57
+road,steel,394.2,39.72,20.19,nimh,229W,5.46
+mountain,aluminum,393.6,59.08,31.24,nimh,215W,7.9
+folding,steel,725.26,51.52,31.33,nimh,298W,6.97
+folding,aluminum,412.51,73.53,24.26,lead acid,261W,4.46
+mountain,aluminum,405.6,50.16,21.94,lead acid,374W,7.54
+folding,carbon fiber,484.54,76.12,24.31,li-ion,228W,6.67
+road,aluminum,757.98,70.4,19.9,nimh,279W,8.89
+standard,aluminum,705.45,66.58,32.02,nimh,222W,10.15
+standard,steel,673.04,63.82,29.0,nimh,271W,6.35
+folding,aluminum,747.77,85.17,,lead acid,221W,6.69
+standard,steel,708.75,26.5,24.97,li-ion,230W,6.2
+folding,carbon fiber,314.96,55.84,22.85,-,221W,3.08
+road,carbon fiber,341.37,48.86,34.26,nimh,264W,7.69
+road,carbon fiber,739.37,63.36,23.93,lead acid,220W,6.21
+folding,aluminum,716.86,66.11,20.41,lead acid,273W,10.24
+mountain,steel,475.24,60.05,28.93,lead acid,249W,7.13
+folding,steel,519.06,55.9,17.99,li-ion,243W,6.17
+mountain,aluminum,221.61,47.25,22.13,lead acid,245W,6.1
+road,carbon fiber,724.36,55.89,27.37,nimh,215W,7.75
+road,carbon fiber,537.07,63.52,20.65,nimh,207W,6.05
+folding,carbon fiber,666.73,97.22,23.4,nimh,260W,7.51
+standard,carbon fiber,497.15,80.92,25.62,nimh,329W,6.2
+road,aluminum,279.24,34.64,24.01,li-ion,209W,4.55
+mountain,aluminum,585.39,58.3,22.99,nimh,320W,9.87
+folding,carbon fiber,232.12,61.99,18.81,nimh,338W,4.99
+folding,steel,473.14,39.56,23.28,lead acid,333W,7.71
+mountain,carbon fiber,258.53,53.04,16.92,nimh,335W,4.34
+road,aluminum,486.94,39.37,22.41,li-ion,196W,6.29
+road,aluminum,571.59,37.76,31.85,nimh,244W,6.73
+road,aluminum,752.58,70.08,18.53,nimh,189W,6.12
+mountain,aluminum,788.29,55.08,17.07,nimh,232W,7.14
+mountain,carbon fiber,759.18,81.53,21.76,nimh,251W,5.62
+folding,carbon fiber,386.69,58.16,22.51,lead acid,256W,4.72
+folding,carbon fiber,741.17,80.04,27.09,li-ion,257W,8.14
+standard,aluminum,326.96,51.47,24.85,lead acid,243W,6.06
+folding,aluminum,738.47,70.39,14.42,nimh,271W,8.35
+standard,carbon fiber,339.27,43.21,18.43,nimh,229W,6.28
+standard,aluminum,709.35,32.99,23.71,lead acid,220W,5.62
+folding,steel,525.36,61.95,24.66,li-ion,310W,7.09
+folding,aluminum,788.59,92.09,21.77,lead acid,247W,5.63
+standard,carbon fiber,766.68,53.54,25.71,lead acid,233W,7.66
+standard,carbon fiber,747.17,45.7,19.15,li-ion,289W,7.86
+road,steel,533.47,89.05,23.72,li-ion,147W,6.83
+mountain,carbon fiber,553.58,60.05,23.71,nimh,247W,8.44
+road,steel,757.38,46.74,26.14,li-ion,207W,4.96
+standard,carbon fiber,605.5,51.53,28.38,-,204W,8.51
+folding,carbon fiber,794.9,69.56,27.53,nimh,321W,8.22
+folding,carbon fiber,467.43,45.94,23.18,lead acid,265W,6.24
+mountain,carbon fiber,264.83,72.08,26.54,nimh,334W,3.86
+folding,carbon fiber,228.81,60.34,28.87,lead acid,228W,4.78
+folding,carbon fiber,768.18,67.9,14.19,nimh,301W,6.72
+standard,aluminum,427.21,57.6,22.41,li-ion,228W,8.49
+mountain,steel,560.78,45.67,25.92,lead acid,182W,7.37
+folding,steel,524.46,63.52,27.94,nimh,272W,6.03
+mountain,STEel,563.78,51.31,31.94,lead acid,336W,7.5
+standard,steel,222.81,81.41,30.09,lead acid,272W,4.92
+road,steel,238.72,65.93,28.09,nimh,264W,7.9
+road,carbon fiber,766.08,55.93,28.14,lead acid,227W,8.19
+mountain,steel,599.5,61.51,23.96,nimh,291W,7.25
+folding,carbon fiber,570.69,76.71,17.49,nimh,280W,4.88
+mountain,aluminum,364.18,47.16,29.15,li-ion,204W,5.7
+mountain,aluminum,507.35,64.41,22.85,nimh,353W,6.38
+standard,carbon fiber,794.6,69.87,23.39,nimh,269W,8.81
+mountain,aluminum,491.75,46.93,27.22,lead acid,172W,6.48
+standard,aluminum,426.61,56.21,29.02,lead acid,271W,4.9
+standard,steel,365.98,68.42,27.18,lead acid,267W,4.74
+standard,steel,529.56,36.46,20.04,nimh,181W,6.62
+road,aluminum,679.94,73.11,23.74,nimh,261W,8.16
+road,steel,648.12,72.41,27.64,nimh,341W,9.34
+standard,aluminum,513.06,38.85,17.69,li-ion,336W,9.35
+standard,steel,751.68,66.63,21.03,-,222W,8.15
+folding,carbon fiber,777.49,60.1,30.15,lead acid,298W,5.52
+mountain,carbon fiber,797.6,76.15,30.99,lead acid,233W,8.16
+folding,aluminum,505.55,50.8,18.87,nimh,296W,4.81
+mountain,carbon fiber,751.38,71.93,33.53,li-ion,212W,9.18
+mountain,STEel,673.94,72.32,31.85,lead acid,264W,8.89
+folding,carbon fiber,612.41,43.4,27.71,nimh,271W,7.61
+standard,steel,480.04,41.92,26.67,lead acid,244W,5.66
+folding,carbon fiber,328.46,82.5,24.99,lead acid,242W,3.72
+road,steel,784.09,61.29,27.05,li-ion,242W,9.97
+folding,steel,568.88,49.23,,lead acid,230W,6.77
+road,carbon fiber,778.39,62.19,24.37,nimh,235W,4.45
+standard,aluminum,600.7,84.25,19.22,li-ion,237W,8.55
+road,aluminum,799.7,43.54,24.82,li-ion,161W,9.11
+folding,steel,769.08,102.83,27.72,li-ion,238W,6.5
+road,aluminum,577.89,38.08,31.71,nimh,221W,7.06
+standard,steel,723.46,55.6,36.71,lead acid,299W,8.47
+road,aluminum,304.15,64.97,24.58,lead acid,191W,6.8
+mountain,steel,377.99,55.81,25.39,nimh,218W,4.94
+folding,steel,211.41,59.96,17.35,li-ion,273W,3.95
+road,aluminum,566.18,62.53,,nimh,217W,5.89
+folding,carbon fiber,627.71,46.63,28.3,lead acid,221W,8.41
+road,steel,257.03,56.66,16.64,li-ion,319W,8.44
+folding,aluminum,401.1,47.18,20.93,li-ion,268W,5.82
+standard,aluminum,360.88,53.86,23.62,nimh,219W,5.71
+road,aluminum,409.8,57.83,31.83,lead acid,160W,4.59
+road,carbon fiber,201.8,52.67,23.6,-,253W,4.67
+folding,aluminum,478.24,63.25,19.43,lead acid,268W,4.27
+standard,aluminum,599.2,65.35,21.58,nimh,283W,8.23
+folding,steel,231.22,92.37,24.73,lead acid,235W,3.83
+road,aluminum,436.82,61.1,22.59,lead acid,203W,4.55
+road,carbon fiber,697.65,43.25,24.42,-,146W,5.2
+road,aluminum,494.15,77.89,20.28,lead acid,177W,7.75
+standard,aluminum,588.99,68.2,30.44,lead acid,281W,6.83
+mountain,steel,340.17,39.99,24.11,lead acid,256W,7.18
+mountain,carbon fiber,782.29,55.35,29.55,nimh,231W,7.07
+mountain,aluminum,388.19,63.82,29.13,nimh,258W,6.13
+mountain,steel,777.19,56.87,31.84,li-ion,244W,7.79
+road,carbon fiber,741.47,87.01,21.16,lead acid,318W,7.43
+folding,steel,204.2,50.19,18.19,li-ion,311W,4.36
+road,aluminum,446.72,40.03,19.71,li-ion,258W,5.01
+standard,steel,381.59,69.8,21.69,lead acid,256W,5.81
+road,aluminum,556.28,55.24,23.84,lead acid,257W,7.91
+mountain,aluminum,725.56,57.81,23.19,lead acid,209W,8.91
+folding,steel,593.8,27.49,27.97,lead acid,191W,5.71
+road,aluminum,283.74,56.95,29.89,nimh,369W,4.58
+mountain,carbon fiber,380.39,60.29,26.24,li-ion,304W,5.56
+mountain,steel,787.99,67.27,,lead acid,291W,7.9
+folding,carbon fiber,591.4,33.41,15.2,nimh,293W,3.92
+standard,carbon fiber,328.76,78.71,22.28,lead acid,220W,6.92
+mountain,steel,404.1,49.6,18.54,nimh,242W,8.94
+folding,aluminum,217.41,48.98,20.56,li-ion,272W,4.44
+mountain,carbon fiber,619.61,38.16,,lead acid,274W,7.31
+road,aluminum,530.17,45.92,17.27,nimh,233W,5.45
+road,steel,420.01,66.86,14.49,lead acid,284W,7.35
+mountain,aluminum,296.95,70.1,13.37,lead acid,356W,6.42
+folding,carbon fiber,423.01,54.95,24.77,lead acid,173W,6.38
+folding,steel,208.4,50.68,28.83,li-ion,234W,5.06
+folding,STEel,317.06,73.75,,nimh,355W,5.53
+folding,steel,711.76,76.99,21.24,nimh,205W,8.39
+folding,carbon fiber,305.65,57.91,21.96,li-ion,208W,5.97
+folding,steel,226.41,76.6,37.62,nimh,254W,4.38
+folding,carbon fiber,240.22,67.09,26.88,lead acid,283W,6.04
+mountain,carbon fiber,468.63,27.33,18.6,lead acid,377W,6.61
+mountain,carbon fiber,775.39,77.2,25.12,li-ion,291W,7.01
+mountain,steel,352.78,57.78,24.27,lead acid,229W,5.76
+folding,steel,277.44,59.76,25.48,lead acid,228W,6.29
+road,carbon fiber,666.43,61.56,28.99,li-ion,262W,6.65
+standard,steel,666.13,45.6,22.15,-,316W,8.27
+mountain,steel,766.98,53.28,25.42,lead acid,281W,7.63
+standard,steel,653.83,75.3,28.05,li-ion,192W,8.21
+mountain,carbon fiber,754.38,73.79,27.91,lead acid,288W,10.56
+standard,carbon fiber,438.92,60.41,19.49,nimh,244W,6.85
+standard,carbon fiber,578.19,64.61,17.62,nimh,149W,7.19
+mountain,steel,385.49,57.75,22.02,li-ion,247W,9.35
+road,steel,343.77,72.34,23.78,lead acid,259W,7.58
+mountain,carbon fiber,394.5,58.36,29.57,li-ion,229W,4.47
+standard,steel,591.1,78.41,20.86,li-ion,282W,7.45
+standard,steel,546.67,68.3,30.39,nimh,297W,7.1
+standard,aluminum,319.46,50.05,32.3,li-ion,328W,4.58
+mountain,steel,600.1,79.2,,nimh,273W,10.54
+road,carbon fiber,657.43,69.83,23.08,lead acid,247W,5.73
+folding,carbon fiber,668.53,94.4,30.87,li-ion,257W,8.12
+road,aluminum,435.92,61.3,23.04,li-ion,215W,3.52
+mountain,carbon fiber,386.39,48.03,30.58,li-ion,110W,8.41
+mountain,steel,632.52,93.22,11.44,li-ion,269W,7.48
+mountain,carbon fiber,483.94,59.16,28.92,lead acid,232W,5.69
+mountain,carbon fiber,364.78,50.97,25.39,nimh,296W,4.61
+folding,steel,426.91,20.0,30.77,nimh,229W,4.96
+mountain,aluminum,280.44,65.9,,li-ion,360W,4.8
+standard,carbon fiber,228.51,58.79,26.51,nimh,215W,4.47
+folding,aluminum,227.31,60.39,20.01,li-ion,329W,5.12
+standard,carbon fiber,227.01,39.63,22.63,li-ion,296W,4.88
+road,steel,351.88,74.0,23.03,nimh,268W,5.62
+standard,steel,214.11,58.11,26.76,li-ion,274W,5.56
+folding,carbon fiber,313.16,49.7,21.37,-,127W,7.7
+road,steel,557.18,73.49,26.6,nimh,292W,6.55
+mountain,carbon fiber,270.84,43.35,21.22,nimh,285W,8.2
+road,aluminum,495.05,44.98,20.82,li-ion,185W,7.47
+road,aluminum,294.55,53.68,20.93,nimh,182W,6.44
+road,aluminum,245.92,33.35,26.58,nimh,236W,5.65
+road,steel,565.88,71.57,31.44,lead acid,193W,6.99
+road,steel,573.09,52.89,19.62,nimh,250W,9.12
+mountain,carbon fiber,703.95,88.64,25.47,lead acid,235W,5.61
+road,STEel,441.62,61.76,25.27,nimh,205W,5.67
+mountain,carbon fiber,267.53,49.0,16.43,nimh,309W,5.27
+road,carbon fiber,306.25,58.47,27.08,li-ion,364W,8.13
+mountain,steel,382.49,90.28,20.35,li-ion,230W,6.11
+mountain,steel,348.27,22.42,19.53,-,247W,6.11
+standard,steel,314.66,69.16,24.92,nimh,230W,3.86
+folding,aluminum,484.24,63.59,28.33,lead acid,240W,8.77
+road,steel,699.75,87.87,24.58,li-ion,273W,7.95
+folding,carbon fiber,755.28,86.12,23.72,li-ion,216W,3.11
+road,carbon fiber,476.74,66.34,34.52,nimh,277W,5.95
+road,carbon fiber,316.16,54.65,23.87,nimh,260W,4.97
+mountain,aluminum,712.06,66.12,28.12,nimh,309W,7.75
+folding,steel,407.4,57.39,27.51,li-ion,125W,7.63
+road,aluminum,254.63,81.39,28.5,li-ion,299W,2.27
+folding,carbon fiber,398.7,51.79,24.95,nimh,322W,6.37
+road,carbon fiber,555.98,50.52,31.16,lead acid,233W,6.0
+standard,carbon fiber,318.86,27.28,23.75,li-ion,200W,3.35
+road,steel,509.75,65.82,30.96,li-ion,324W,7.94
+road,aluminum,402.0,46.65,25.65,nimh,182W,3.88
+road,aluminum,779.89,42.18,33.05,lead acid,237W,6.33
+mountain,steel,570.39,44.43,21.76,li-ion,330W,8.61
+mountain,steel,667.93,57.87,15.08,li-ion,219W,8.01
+standard,aluminum,487.54,59.89,25.59,li-ion,148W,6.51
+mountain,steel,793.1,61.18,27.57,nimh,263W,5.43
+folding,carbon fiber,639.42,83.46,31.28,lead acid,247W,5.71
+standard,aluminum,646.62,69.9,24.47,lead acid,234W,5.03
+folding,carbon fiber,719.86,57.23,16.94,nimh,306W,10.1
+road,aluminum,792.5,71.8,22.96,-,203W,8.0
+folding,carbon fiber,623.81,84.25,21.56,lead acid,258W,5.91
+folding,carbon fiber,405.9,39.97,33.02,lead acid,303W,7.78
+folding,aluminum,433.22,53.16,17.11,li-ion,270W,5.97
+folding,carbon fiber,787.09,54.55,18.13,lead acid,150W,7.59
+road,aluminum,784.39,90.72,23.47,nimh,204W,8.68
+folding,aluminum,643.02,67.7,24.49,li-ion,318W,8.18
+folding,aluminum,431.12,52.99,23.03,nimh,195W,5.21
+road,steel,740.27,58.3,24.99,lead acid,185W,8.77
+mountain,steel,257.93,55.2,20.56,-,297W,4.73
+standard,aluminum,216.21,32.85,24.98,lead acid,232W,6.61
+road,aluminum,350.68,51.66,21.91,lead acid,206W,7.35
+folding,steel,355.48,71.88,28.16,li-ion,255W,8.81
+standard,steel,650.83,59.92,30.2,li-ion,298W,5.71
+standard,steel,654.13,68.36,24.56,nimh,117W,6.47
+road,carbon fiber,351.58,65.11,23.5,nimh,349W,4.98
+mountain,aluminum,579.09,61.6,24.46,li-ion,214W,6.5
+standard,steel,574.89,66.11,31.46,li-ion,199W,6.61
+mountain,carbon fiber,596.2,34.46,14.88,li-ion,273W,6.52
+road,steel,270.54,58.74,30.88,nimh,229W,7.92
+standard,steel,250.43,76.26,20.23,nimh,207W,6.47
+mountain,steel,543.07,58.93,30.17,nimh,305W,6.44
+standard,steel,727.36,44.78,18.97,lead acid,307W,8.31
+folding,steel,376.19,54.35,20.36,-,350W,4.04
+standard,carbon fiber,708.15,52.4,27.72,lead acid,205W,10.92
+mountain,STEel,693.15,49.23,26.36,li-ion,261W,6.59
+folding,steel,592.9,48.57,39.95,li-ion,328W,8.17
+road,aluminum,694.35,48.22,19.76,lead acid,198W,5.97
+road,carbon fiber,551.78,63.55,21.87,lead acid,221W,5.79
+road,aluminum,721.36,69.72,23.9,lead acid,109W,6.32
+folding,carbon fiber,773.29,78.53,20.88,lead acid,223W,10.54
+standard,steel,616.01,62.95,25.39,li-ion,226W,7.69
+road,carbon fiber,518.16,62.76,24.96,lead acid,195W,7.39
+road,steel,239.32,42.73,30.09,li-ion,279W,4.27
+mountain,aluminum,304.45,92.75,19.94,lead acid,285W,4.08
+folding,aluminum,363.88,62.74,31.64,lead acid,340W,8.42
+folding,carbon fiber,437.72,49.81,33.64,nimh,239W,6.84
+standard,steel,727.06,56.55,22.78,-,277W,7.53
+folding,carbon fiber,643.62,66.57,25.96,li-ion,245W,9.13
+road,steel,465.93,63.09,29.36,nimh,341W,7.24
+road,carbon fiber,500.15,75.91,20.94,nimh,315W,5.95
+standard,steel,686.24,53.36,21.56,-,202W,6.93
+mountain,steel,408.6,55.08,24.94,lead acid,195W,7.45
+folding,steel,653.23,60.28,23.27,li-ion,381W,4.28
+standard,steel,253.13,46.72,28.49,li-ion,248W,6.25
+mountain,carbon fiber,446.42,26.39,20.81,nimh,314W,4.83
+standard,aluminum,266.63,35.33,23.53,li-ion,314W,3.94
+mountain,carbon fiber,577.29,64.8,15.31,lead acid,141W,6.57
+standard,steel,674.24,60.05,20.07,nimh,338W,4.94
+mountain,aluminum,410.71,55.03,35.48,lead acid,224W,3.92
+folding,carbon fiber,713.56,76.97,25.63,lead acid,253W,5.67
+standard,aluminum,382.79,85.9,25.93,nimh,274W,5.71
+standard,steel,763.38,56.46,20.9,lead acid,332W,8.16
+road,aluminum,327.56,74.41,23.59,nimh,259W,1.71
+standard,steel,455.73,26.16,25.36,lead acid,271W,5.28
+mountain,carbon fiber,546.37,50.91,24.99,nimh,222W,6.84
+mountain,carbon fiber,413.11,55.7,31.51,nimh,287W,6.29
+road,steel,479.74,76.67,,nimh,243W,7.96
+road,carbon fiber,273.24,53.4,10.0,li-ion,229W,5.9
+standard,steel,532.27,40.59,32.12,lead acid,184W,6.22
+road,steel,342.57,49.38,32.82,nimh,273W,5.73
+mountain,aluminum,546.97,44.13,16.39,nimh,193W,4.08
+standard,aluminum,510.66,75.3,29.89,lead acid,245W,8.93
+road,aluminum,454.83,66.07,25.14,li-ion,202W,3.54
+folding,carbon fiber,275.34,42.88,22.83,lead acid,209W,4.76
+mountain,aluminum,461.43,46.87,22.66,-,285W,6.27
+mountain,aluminum,711.46,48.07,25.07,lead acid,285W,7.64
+folding,carbon fiber,736.07,27.31,31.89,-,313W,8.75
+standard,steel,592.3,66.23,14.87,li-ion,211W,7.83
+standard,steel,406.5,64.22,21.16,nimh,261W,6.23
+mountain,aluminum,305.35,57.18,24.95,lead acid,310W,5.2
+road,carbon fiber,628.01,63.97,31.16,li-ion,175W,7.52
+road,carbon fiber,323.66,50.19,23.13,lead acid,252W,6.35
+folding,carbon fiber,496.25,63.56,39.2,nimh,293W,6.1
+standard,aluminum,647.82,67.41,26.7,nimh,190W,5.35
+folding,aluminum,346.77,53.03,25.72,li-ion,288W,6.41
+mountain,aluminum,215.91,60.46,,li-ion,181W,5.09
+mountain,steel,293.95,28.27,21.25,lead acid,249W,5.06
+folding,carbon fiber,449.12,78.07,22.22,li-ion,263W,6.25
+road,steel,317.96,68.93,22.17,nimh,208W,6.73
+mountain,steel,686.54,47.92,33.37,-,317W,7.29
+mountain,carbon fiber,279.84,56.14,26.64,nimh,271W,5.32
+standard,carbon fiber,659.83,58.8,31.83,lead acid,264W,5.74
+folding,carbon fiber,748.67,65.35,23.87,lead acid,247W,9.09
+mountain,aluminum,538.57,41.62,33.8,-,295W,6.19
+standard,aluminum,527.46,44.43,24.46,nimh,223W,7.07
+standard,aluminum,302.65,58.29,18.58,nimh,200W,5.54
+mountain,steel,550.58,83.89,18.78,-,182W,8.4
+standard,steel,556.88,62.26,27.98,li-ion,318W,4.96
+mountain,carbon fiber,426.01,54.54,28.06,lead acid,260W,6.37
+folding,carbon fiber,586.59,63.12,,lead acid,223W,4.22
+mountain,steel,691.95,74.54,28.82,li-ion,279W,7.13
+road,carbon fiber,417.31,72.51,19.98,nimh,205W,4.34
+standard,aluminum,504.35,77.98,22.06,li-ion,238W,6.78
+mountain,steel,377.39,58.3,31.06,lead acid,196W,5.27
+folding,carbon fiber,530.47,69.23,32.01,nimh,137W,5.36
+standard,aluminum,349.47,70.8,33.07,lead acid,240W,6.28
+road,aluminum,286.74,55.45,25.24,-,207W,4.44
+mountain,steel,444.62,49.77,30.12,lead acid,280W,6.27
+standard,carbon fiber,600.4,48.85,,lead acid,140W,7.89
+mountain,aluminum,564.38,47.8,25.2,nimh,298W,6.33
+mountain,steel,713.26,74.96,29.13,lead acid,278W,6.86
+mountain,steel,514.26,68.51,28.37,lead acid,301W,8.09
+mountain,steel,652.93,44.21,25.4,lead acid,292W,5.95
+road,carbon fiber,414.31,64.14,25.35,li-ion,249W,7.72
+road,aluminum,255.23,51.14,30.69,lead acid,136W,6.66
+mountain,steel,553.28,59.85,29.77,nimh,173W,8.09
+folding,aluminum,636.12,75.79,31.15,nimh,245W,8.87
+folding,aluminum,464.43,61.99,25.45,lead acid,254W,6.05
+mountain,steel,430.22,69.46,27.09,li-ion,199W,3.48
+standard,carbon fiber,470.44,68.0,27.1,li-ion,228W,7.1
+standard,aluminum,634.02,83.82,26.83,lead acid,221W,6.45
+standard,carbon fiber,283.44,44.94,29.09,li-ion,318W,6.59
+road,carbon fiber,230.92,68.88,30.02,nimh,199W,6.53
+folding,aluminum,416.41,43.09,26.44,nimh,314W,8.65
+mountain,carbon fiber,277.74,75.26,19.51,nimh,280W,7.11
+road,steel,404.7,66.4,21.59,lead acid,246W,7.42
+folding,steel,521.16,50.21,15.32,li-ion,225W,5.99
+standard,aluminum,716.26,50.3,19.61,li-ion,295W,8.58
+standard,carbon fiber,685.34,40.55,27.21,lead acid,222W,8.03
+standard,STEel,220.11,46.45,19.71,nimh,191W,4.19
+standard,aluminum,721.96,71.7,26.91,lead acid,229W,10.13
+road,steel,292.45,57.84,33.65,li-ion,242W,5.83
+mountain,steel,523.86,84.6,22.69,lead acid,261W,7.2
+road,carbon fiber,754.98,25.76,20.2,nimh,255W,8.77
+road,aluminum,554.78,66.61,21.7,lead acid,329W,6.44
+standard,aluminum,526.26,21.67,27.21,nimh,142W,8.85
+mountain,aluminum,665.53,72.27,29.26,li-ion,228W,8.35
+folding,carbon fiber,433.52,46.01,27.03,li-ion,294W,5.54
+mountain,steel,489.64,53.72,23.65,nimh,163W,7.16
+standard,aluminum,620.21,70.43,20.39,lead acid,271W,10.15
+standard,carbon fiber,369.88,43.63,27.8,nimh,334W,5.44
+mountain,aluminum,791.0,49.26,39.73,lead acid,276W,8.86
+folding,aluminum,692.85,62.16,30.87,nimh,161W,5.43
+standard,carbon fiber,615.11,76.44,24.0,nimh,238W,6.41
+folding,steel,287.04,53.17,23.0,lead acid,304W,5.51
+mountain,steel,488.44,42.04,33.02,nimh,183W,6.7
+mountain,steel,567.98,50.71,28.46,nimh,260W,5.31
+folding,steel,594.1,79.0,27.04,lead acid,223W,6.4
+road,aluminum,575.49,62.71,33.56,lead acid,333W,4.58
+standard,steel,219.81,67.89,31.55,lead acid,269W,5.36
+mountain,aluminum,797.0,69.73,25.31,nimh,220W,5.64
+road,steel,659.23,43.92,19.64,lead acid,135W,6.31
+mountain,carbon fiber,736.67,73.49,22.39,lead acid,249W,7.49
+standard,carbon fiber,432.92,78.48,22.4,nimh,171W,7.14
+standard,steel,667.03,63.63,27.52,lead acid,225W,7.59
+standard,aluminum,465.03,53.22,22.41,lead acid,252W,6.42
+road,steel,740.57,57.71,31.14,nimh,169W,4.42
+folding,steel,267.83,63.46,20.12,li-ion,200W,6.54
+folding,aluminum,630.72,52.5,21.41,li-ion,312W,6.0
+road,aluminum,200.3,42.86,20.38,nimh,214W,4.79
+road,aluminum,347.07,70.31,33.17,li-ion,196W,8.11
+folding,aluminum,471.34,53.22,25.25,lead acid,274W,5.95
+folding,carbon fiber,624.11,69.28,30.68,nimh,305W,5.8
+mountain,aluminum,662.83,22.52,15.72,li-ion,281W,8.68
+mountain,carbon fiber,315.56,70.33,22.45,li-ion,291W,7.02
+folding,carbon fiber,680.84,62.85,12.84,nimh,287W,7.91
+folding,steel,247.72,73.41,18.87,li-ion,215W,5.6
+mountain,aluminum,393.3,58.7,35.56,lead acid,255W,4.22
+folding,STEel,474.04,81.96,19.57,li-ion,251W,4.16
+road,aluminum,790.4,59.02,20.98,li-ion,288W,9.65
+folding,steel,239.92,60.1,24.05,lead acid,265W,5.45
+mountain,carbon fiber,458.43,72.39,22.2,lead acid,199W,4.68
+standard,steel,341.97,49.75,28.95,li-ion,315W,3.91
+road,aluminum,463.83,54.37,,nimh,258W,5.74
+road,aluminum,380.69,81.94,23.52,nimh,301W,6.42
+standard,carbon fiber,595.0,54.73,29.35,lead acid,249W,9.3
+folding,carbon fiber,688.64,51.58,19.16,nimh,214W,8.79
+folding,steel,760.98,45.86,25.62,nimh,172W,5.97
+mountain,carbon fiber,773.89,66.54,25.69,lead acid,241W,7.9
+folding,steel,230.02,87.05,30.13,nimh,249W,5.62
+road,carbon fiber,481.84,57.8,22.32,nimh,203W,10.64
+folding,steel,299.65,69.17,32.84,li-ion,259W,3.74
+mountain,aluminum,419.41,47.96,25.24,nimh,294W,3.82
+standard,aluminum,772.09,77.72,24.51,nimh,241W,8.51
+mountain,aluminum,422.71,49.14,26.92,lead acid,210W,7.12
+standard,steel,738.17,58.18,22.53,li-ion,327W,8.25
+standard,carbon fiber,597.7,57.95,32.7,li-ion,133W,9.37
+mountain,aluminum,214.71,52.08,15.95,li-ion,337W,6.57
+mountain,carbon fiber,502.25,60.11,24.96,li-ion,241W,5.83
+folding,carbon fiber,755.88,71.19,34.5,lead acid,228W,6.26
+folding,aluminum,641.82,69.78,17.5,-,224W,7.32
+road,aluminum,730.67,88.62,28.62,lead acid,242W,6.07
+road,carbon fiber,502.55,55.85,25.17,lead acid,262W,4.53
+folding,aluminum,232.72,81.75,30.18,nimh,240W,3.21
+standard,steel,713.86,62.08,19.66,lead acid,211W,4.82
+mountain,aluminum,611.81,67.56,30.55,lead acid,335W,6.96
+folding,carbon fiber,276.84,64.78,19.4,li-ion,242W,5.29
+road,carbon fiber,721.06,39.17,32.53,li-ion,128W,4.99
+folding,aluminum,317.36,74.79,29.98,nimh,326W,5.11
+mountain,steel,551.48,73.84,25.38,nimh,242W,4.8
+standard,carbon fiber,520.56,45.54,25.97,nimh,332W,9.46
+mountain,aluminum,258.23,78.72,20.51,li-ion,262W,5.12
+standard,steel,429.01,90.52,26.77,lead acid,342W,4.52
+mountain,steel,695.25,56.34,24.81,nimh,336W,6.7
+road,aluminum,785.59,53.75,22.26,nimh,266W,10.45
+folding,carbon fiber,558.38,65.31,31.1,li-ion,243W,7.73
+mountain,steel,275.94,75.6,21.15,li-ion,327W,5.91
+mountain,carbon fiber,265.13,66.06,23.36,lead acid,240W,5.34
+mountain,steel,798.8,51.32,31.36,lead acid,294W,6.72
+mountain,carbon fiber,735.47,46.32,22.25,li-ion,359W,7.93
+folding,steel,288.54,40.99,30.19,li-ion,270W,6.46
+standard,aluminum,774.19,63.93,21.35,nimh,207W,9.54
+road,aluminum,220.71,74.75,29.07,li-ion,211W,5.07
+folding,carbon fiber,478.54,26.45,23.17,nimh,216W,7.89
+road,carbon fiber,737.57,72.75,13.55,li-ion,292W,10.38
+road,steel,592.6,68.52,34.85,li-ion,320W,10.15
+standard,steel,714.76,51.39,31.6,nimh,253W,8.16
+standard,carbon fiber,352.48,39.43,23.25,li-ion,243W,8.31
+folding,steel,691.65,62.32,29.18,nimh,264W,4.39
+standard,carbon fiber,248.02,59.35,25.82,li-ion,270W,6.08
+mountain,aluminum,614.51,46.29,20.28,lead acid,321W,5.36
+mountain,carbon fiber,670.04,53.92,23.1,lead acid,278W,6.53
+road,carbon fiber,445.22,39.92,25.49,li-ion,342W,4.51
+folding,steel,779.29,82.67,28.0,lead acid,139W,7.26
+mountain,carbon fiber,576.69,59.48,18.79,nimh,244W,4.94
+standard,aluminum,669.43,54.57,28.53,lead acid,178W,5.88
+road,steel,561.38,71.71,16.3,li-ion,321W,6.68
+road,carbon fiber,762.18,61.47,21.3,nimh,245W,9.95
+standard,aluminum,539.47,60.14,24.62,li-ion,188W,5.11
+road,steel,215.31,50.32,32.1,lead acid,299W,6.08
+standard,carbon fiber,506.75,55.13,17.52,nimh,235W,6.15
+standard,steel,252.53,73.43,28.68,li-ion,253W,6.27
+road,steel,507.05,71.8,36.74,lead acid,118W,6.38
+standard,aluminum,609.7,68.35,27.82,li-ion,208W,8.92
+road,aluminum,494.45,69.36,20.96,lead acid,238W,7.36
+folding,steel,710.56,83.54,26.33,li-ion,173W,10.25
+road,steel,798.5,69.44,16.22,li-ion,221W,8.31
+road,carbon fiber,251.33,50.06,15.04,lead acid,220W,3.34
+standard,aluminum,550.88,61.21,20.08,li-ion,248W,8.89
+road,aluminum,754.68,69.3,26.52,li-ion,123W,5.49
+mountain,carbon fiber,595.3,58.32,22.8,-,246W,5.56
+standard,steel,730.37,81.67,24.97,lead acid,193W,7.27
+standard,aluminum,734.27,74.93,32.07,li-ion,170W,7.44
+standard,carbon fiber,243.22,54.94,19.85,lead acid,271W,4.07
+standard,aluminum,606.4,78.21,23.32,nimh,240W,7.56
+mountain,aluminum,759.48,59.65,24.2,nimh,172W,7.76
+mountain,aluminum,520.86,70.08,21.95,lead acid,249W,3.85
+road,steel,209.6,56.97,30.67,li-ion,227W,5.59
+standard,steel,739.97,77.57,,nimh,214W,5.54
+standard,steel,240.52,60.74,24.72,nimh,224W,4.44
+road,aluminum,689.24,62.34,21.41,lead acid,322W,6.16
+standard,carbon fiber,682.34,102.22,25.19,lead acid,244W,6.02
+road,aluminum,537.97,53.83,34.09,li-ion,213W,3.22
+folding,carbon fiber,400.5,32.86,24.22,lead acid,237W,4.66
+folding,aluminum,682.04,55.41,23.89,lead acid,175W,7.1
+road,aluminum,246.82,79.64,29.85,li-ion,198W,6.25
+folding,steel,608.2,31.75,24.23,lead acid,199W,3.65
+folding,carbon fiber,568.58,71.18,17.18,nimh,221W,6.72
+road,steel,354.58,39.78,33.26,lead acid,295W,6.6
+mountain,carbon fiber,536.17,58.4,23.35,lead acid,262W,6.77
+standard,aluminum,631.02,47.08,31.5,nimh,277W,7.28
+road,aluminum,517.86,80.71,23.57,nimh,233W,5.45
+mountain,aluminum,562.88,58.44,21.43,li-ion,232W,8.91
+road,steel,547.27,41.95,21.69,nimh,185W,4.63
+mountain,aluminum,394.8,62.71,20.36,lead acid,180W,5.35
+folding,carbon fiber,610.91,69.67,31.4,li-ion,331W,5.72
+standard,aluminum,463.23,47.85,27.95,li-ion,292W,2.27
+road,steel,642.42,64.55,18.17,nimh,208W,5.98
+standard,steel,456.63,51.75,22.45,lead acid,331W,8.38
+road,steel,390.3,43.9,28.6,li-ion,214W,6.34
+standard,aluminum,581.49,76.88,23.91,lead acid,239W,5.26
+folding,aluminum,236.62,79.31,32.49,lead acid,260W,5.41
+folding,aluminum,588.39,76.77,20.8,-,244W,6.01
+road,carbon fiber,448.22,54.06,23.88,nimh,268W,6.54
+mountain,aluminum,747.47,65.68,27.64,nimh,268W,6.88
+mountain,carbon fiber,718.66,20.0,25.15,nimh,250W,6.0
+folding,steel,295.45,53.09,19.33,li-ion,292W,4.5
+folding,carbon fiber,772.39,64.2,26.37,lead acid,235W,8.43
+standard,steel,676.94,51.95,26.21,li-ion,206W,8.37
+mountain,steel,611.51,60.83,31.56,-,252W,8.29
+folding,aluminum,405.3,81.38,25.83,lead acid,306W,5.78
+mountain,aluminum,748.07,73.15,20.43,nimh,265W,6.79
+mountain,aluminum,504.05,51.18,17.96,lead acid,320W,6.17
+folding,carbon fiber,421.51,83.77,31.81,nimh,214W,6.04
+road,steel,260.93,37.05,21.05,lead acid,221W,7.93
+folding,carbon fiber,767.58,50.7,22.11,lead acid,305W,9.89
+mountain,carbon fiber,789.49,73.75,24.82,-,166W,6.69
+road,carbon fiber,321.26,37.46,27.73,lead acid,227W,3.08
+mountain,aluminum,671.84,52.12,25.09,li-ion,297W,6.87
+mountain,aluminum,628.91,63.75,35.85,li-ion,194W,5.65
+folding,steel,697.05,79.61,20.49,lead acid,310W,9.77
+standard,steel,281.34,48.86,23.04,nimh,240W,6.35
+folding,steel,389.69,51.22,21.88,lead acid,213W,7.22
+road,carbon fiber,271.44,58.67,21.11,nimh,292W,6.14
+standard,STEel,273.54,59.3,23.64,nimh,254W,5.18
+mountain,carbon fiber,697.95,62.65,33.03,lead acid,166W,5.22
+mountain,carbon fiber,765.48,52.57,29.28,li-ion,256W,7.49
+road,carbon fiber,217.71,69.43,23.4,li-ion,180W,6.06
+mountain,aluminum,291.55,39.82,29.4,li-ion,245W,3.62
+mountain,steel,474.34,51.9,15.18,nimh,324W,7.62
+mountain,steel,236.02,47.85,11.32,lead acid,256W,6.34
+folding,carbon fiber,387.59,64.89,30.29,lead acid,282W,7.84
+mountain,carbon fiber,355.78,43.07,27.83,nimh,213W,7.57
+folding,steel,651.43,85.72,22.13,li-ion,279W,4.5
+folding,aluminum,528.96,56.92,21.96,lead acid,239W,8.89
+road,steel,391.2,67.53,32.41,-,252W,6.63
+mountain,steel,514.86,47.13,19.32,li-ion,277W,6.98
+folding,steel,386.99,57.92,25.74,lead acid,256W,6.86
+mountain,steel,487.24,51.61,22.67,lead acid,268W,7.09
+road,steel,642.12,83.46,19.97,nimh,200W,4.25
+standard,carbon fiber,255.53,46.43,17.63,li-ion,227W,4.42
+road,carbon fiber,213.51,78.4,23.27,lead acid,281W,4.2
+road,aluminum,678.74,51.55,23.87,lead acid,229W,8.03
+standard,steel,708.45,55.07,17.14,nimh,272W,10.55
+mountain,carbon fiber,313.46,54.38,29.49,lead acid,157W,3.67
+standard,steel,399.9,70.21,31.44,lead acid,292W,7.63
+standard,steel,750.48,38.94,21.69,nimh,297W,9.25
+folding,carbon fiber,442.82,53.15,21.28,nimh,315W,6.09
+standard,aluminum,308.35,61.27,27.1,nimh,196W,4.99
+road,carbon fiber,328.16,20.0,30.78,-,191W,4.24
+standard,carbon fiber,320.66,82.08,21.74,lead acid,167W,5.85
+standard,aluminum,431.42,55.13,23.15,nimh,315W,3.66
+standard,steel,462.33,59.09,26.39,nimh,277W,7.27
+folding,carbon fiber,334.17,65.98,29.18,lead acid,256W,5.49
+road,aluminum,245.62,70.95,22.81,lead acid,234W,5.07
+standard,aluminum,652.33,85.61,27.51,lead acid,301W,6.56
+road,aluminum,309.25,55.45,24.73,nimh,286W,8.24
+road,carbon fiber,776.59,44.25,33.22,nimh,309W,5.77
+mountain,aluminum,248.92,59.03,19.7,li-ion,233W,2.47
+mountain,carbon fiber,237.82,23.92,17.47,lead acid,263W,5.04
+standard,carbon fiber,770.89,27.57,,lead acid,248W,5.52
+standard,aluminum,746.57,104.85,25.52,li-ion,241W,8.29
+standard,aluminum,290.95,45.59,31.08,nimh,221W,5.96
+mountain,aluminum,778.09,35.8,29.38,li-ion,203W,7.82
+standard,carbon fiber,769.98,51.97,19.91,li-ion,208W,9.52
+standard,aluminum,530.77,81.86,19.34,lead acid,235W,5.91
+road,steel,401.4,68.7,28.27,li-ion,280W,8.87
+road,steel,552.68,76.52,29.01,lead acid,291W,8.07
+road,steel,587.79,71.83,18.84,li-ion,311W,6.37
+standard,carbon fiber,246.52,77.88,22.1,nimh,330W,4.74
+road,carbon fiber,780.49,80.28,19.61,nimh,273W,5.37
+standard,steel,367.18,40.9,21.93,-,286W,6.68
+mountain,aluminum,527.16,57.01,24.31,nimh,257W,6.25
+standard,aluminum,322.46,63.15,21.47,li-ion,358W,5.2
+road,aluminum,256.43,46.3,19.35,nimh,213W,6.71
+standard,carbon fiber,245.02,36.37,24.6,li-ion,241W,5.46
+folding,aluminum,581.79,47.11,19.0,lead acid,246W,8.2
+road,carbon fiber,361.48,80.93,27.42,lead acid,222W,7.59
+standard,carbon fiber,544.57,82.58,29.3,li-ion,348W,7.78
+folding,steel,423.31,87.81,28.68,nimh,182W,6.56
+road,carbon fiber,325.46,57.17,24.67,li-ion,329W,5.19
+mountain,carbon fiber,333.27,51.96,23.34,lead acid,235W,6.58
+road,aluminum,760.08,54.38,11.39,-,216W,8.21
+standard,carbon fiber,322.16,88.72,22.15,nimh,313W,7.37
+folding,carbon fiber,726.16,85.61,27.19,li-ion,270W,10.0
+standard,aluminum,201.2,20.0,29.7,lead acid,225W,3.51
+standard,steel,222.21,82.21,22.38,li-ion,352W,6.81
+mountain,steel,583.59,57.02,26.18,li-ion,221W,5.5
+road,steel,745.07,28.82,30.81,nimh,281W,7.24
+folding,carbon fiber,226.71,65.54,16.8,nimh,309W,3.02
+folding,steel,595.6,65.04,29.54,lead acid,203W,7.5
+road,carbon fiber,704.55,55.59,26.34,li-ion,270W,7.22
+folding,steel,234.52,69.94,20.71,nimh,192W,6.71
+folding,steel,729.16,34.26,26.84,nimh,235W,7.13
+mountain,steel,560.18,63.23,23.1,nimh,189W,6.39
+standard,carbon fiber,225.21,63.01,24.43,nimh,227W,4.81
+road,aluminum,644.52,52.1,16.16,lead acid,281W,6.52
+standard,aluminum,763.08,45.94,25.43,li-ion,246W,9.04
+folding,carbon fiber,275.64,20.0,30.08,lead acid,317W,6.63
+road,steel,672.44,101.98,21.77,nimh,167W,8.52
+mountain,carbon fiber,341.07,65.83,21.98,nimh,205W,5.14
+mountain,carbon fiber,411.91,58.36,31.09,li-ion,256W,8.55
+folding,aluminum,601.9,61.27,21.38,lead acid,217W,7.55
+folding,steel,297.85,55.63,32.67,lead acid,261W,4.23
+road,steel,443.72,78.12,25.26,lead acid,312W,5.17
+road,aluminum,540.67,58.92,20.48,lead acid,307W,4.63
+road,STEel,469.53,79.11,25.27,li-ion,205W,9.47
+folding,steel,255.83,38.09,29.36,lead acid,243W,4.78
+standard,steel,213.21,33.98,,-,324W,4.4
+standard,aluminum,636.72,20.0,24.7,nimh,307W,4.89
+standard,carbon fiber,576.99,62.22,29.71,lead acid,237W,4.88
+folding,carbon fiber,683.84,73.6,,li-ion,178W,8.21
+standard,carbon fiber,515.76,60.34,29.21,lead acid,239W,7.99
+road,aluminum,312.86,70.34,31.01,lead acid,212W,4.11
+folding,aluminum,655.03,83.82,22.3,nimh,206W,7.19
+road,steel,310.16,53.18,25.72,lead acid,168W,2.6
+folding,steel,793.4,90.16,25.82,lead acid,204W,8.05
+folding,steel,438.62,61.56,24.91,nimh,263W,6.99
+mountain,steel,454.53,74.19,18.67,lead acid,294W,8.27
+folding,steel,427.81,62.1,21.17,lead acid,265W,8.39
+mountain,steel,406.8,66.13,22.46,lead acid,277W,2.88
+road,aluminum,555.68,49.28,27.82,nimh,269W,6.35
+mountain,aluminum,208.1,44.38,20.18,lead acid,250W,5.72
+mountain,carbon fiber,542.17,61.14,31.1,nimh,236W,5.8
+mountain,aluminum,646.32,60.67,25.15,li-ion,287W,7.6
+mountain,carbon fiber,477.64,69.37,20.1,nimh,263W,8.68
+mountain,aluminum,495.95,28.09,31.88,li-ion,217W,6.8
+mountain,steel,262.43,51.06,28.84,lead acid,298W,3.81
+road,carbon fiber,696.15,45.62,29.05,nimh,212W,9.62
+mountain,aluminum,509.45,70.86,28.13,lead acid,275W,5.74
+standard,aluminum,494.75,56.99,26.3,li-ion,191W,6.24
+standard,carbon fiber,312.26,46.02,28.66,nimh,282W,3.65
+folding,aluminum,237.52,92.59,24.86,lead acid,225W,5.39
+folding,aluminum,327.86,59.38,26.83,lead acid,214W,6.1
+road,aluminum,315.86,53.21,28.58,lead acid,229W,2.96
+road,carbon fiber,203.9,59.76,28.85,lead acid,253W,4.0
+folding,carbon fiber,707.55,78.8,29.08,li-ion,268W,6.54
+folding,STEel,294.25,59.08,22.36,li-ion,200W,5.18
+road,steel,709.95,59.76,17.7,li-ion,140W,8.1
+road,carbon fiber,519.66,76.62,26.69,lead acid,188W,5.91
+standard,STEel,306.55,33.95,25.01,li-ion,266W,8.22
+folding,steel,525.06,60.5,28.16,li-ion,295W,7.78
+folding,steel,430.52,80.19,19.23,li-ion,265W,3.47
+road,steel,681.74,58.85,32.01,nimh,273W,8.05
+mountain,aluminum,611.21,50.24,26.89,li-ion,228W,7.45
+standard,aluminum,289.44,49.02,23.13,lead acid,267W,7.12
+standard,carbon fiber,305.05,54.28,34.66,li-ion,316W,9.41
+standard,steel,384.89,87.69,34.83,nimh,197W,6.08
+standard,carbon fiber,333.87,61.11,31.37,nimh,304W,7.12
+road,steel,704.85,63.62,23.52,nimh,224W,7.39
+road,carbon fiber,662.23,71.35,20.96,lead acid,216W,6.98
+mountain,steel,374.09,73.68,28.35,nimh,260W,4.5
+standard,carbon fiber,260.03,54.84,19.9,li-ion,212W,3.85
+folding,aluminum,464.13,52.04,26.97,lead acid,226W,5.1
+standard,steel,212.91,54.95,19.07,li-ion,273W,2.04
+mountain,steel,751.98,44.56,21.01,lead acid,253W,9.11
+folding,carbon fiber,444.02,49.39,26.65,nimh,210W,6.64
+standard,steel,689.54,71.66,19.26,li-ion,272W,7.02
+standard,carbon fiber,579.69,58.59,25.84,li-ion,238W,5.92
+road,steel,441.32,38.8,18.05,li-ion,247W,4.5
+standard,carbon fiber,430.82,79.07,23.54,-,218W,6.05
+road,carbon fiber,273.84,54.07,26.81,lead acid,224W,7.46
+road,carbon fiber,396.9,58.24,23.82,lead acid,279W,4.17
+standard,steel,421.21,61.03,18.52,lead acid,278W,7.67
+folding,carbon fiber,489.04,54.89,23.82,nimh,314W,4.45
+mountain,carbon fiber,650.53,28.0,35.56,lead acid,278W,7.92
+folding,steel,483.64,68.05,24.03,lead acid,216W,6.02
+mountain,aluminum,731.87,63.39,22.36,nimh,168W,5.54
+road,carbon fiber,367.78,49.21,17.93,-,213W,5.4
+standard,aluminum,305.95,40.03,28.54,nimh,323W,4.68
+road,aluminum,528.06,55.1,25.05,lead acid,230W,7.35
+standard,steel,640.92,47.94,20.55,lead acid,213W,10.26
+road,carbon fiber,580.59,71.22,23.53,lead acid,332W,4.21
+road,carbon fiber,645.72,70.74,23.88,lead acid,133W,6.63
+standard,carbon fiber,730.97,37.14,26.37,nimh,280W,9.5
+mountain,carbon fiber,519.96,50.43,16.07,lead acid,256W,10.47
+mountain,aluminum,456.93,62.05,21.19,li-ion,286W,8.04
+mountain,steel,688.04,58.63,29.48,li-ion,245W,5.16
+mountain,aluminum,473.74,54.19,30.52,nimh,253W,7.36
+mountain,aluminum,707.25,72.21,29.86,li-ion,198W,5.8
+standard,steel,570.99,27.67,23.69,nimh,250W,9.27
+folding,carbon fiber,342.87,66.97,36.97,-,285W,4.79
+road,steel,492.65,67.71,22.88,nimh,242W,6.56
+standard,carbon fiber,664.33,50.27,26.6,nimh,270W,7.13
+road,steel,781.69,79.75,31.42,nimh,263W,8.97
+folding,steel,202.1,62.8,16.83,-,233W,5.59
+standard,steel,622.61,53.36,32.55,-,300W,4.54
+standard,steel,453.03,56.4,21.18,li-ion,242W,5.82
+standard,carbon fiber,455.43,54.83,26.5,-,280W,7.59
+road,steel,460.23,54.82,23.48,lead acid,169W,7.83
+folding,aluminum,563.18,71.8,25.58,lead acid,224W,7.7
+road,steel,314.06,46.11,24.23,li-ion,227W,5.75
+folding,aluminum,378.29,36.32,18.65,lead acid,358W,6.11
+mountain,steel,245.32,59.64,29.09,li-ion,257W,6.6
+standard,carbon fiber,339.57,66.16,31.54,nimh,284W,5.8
+mountain,steel,381.29,61.61,25.08,li-ion,257W,5.69
+standard,aluminum,636.42,77.04,26.86,nimh,209W,2.69
+road,carbon fiber,303.25,46.02,15.46,li-ion,322W,4.87
+road,aluminum,366.58,56.82,26.77,nimh,288W,4.39
+folding,aluminum,486.04,69.66,21.82,lead acid,301W,5.91
+standard,steel,654.43,91.38,16.69,nimh,273W,7.91
+mountain,aluminum,576.39,34.84,22.15,li-ion,275W,5.31
+road,aluminum,621.11,42.13,23.83,lead acid,189W,9.08
+standard,steel,377.69,70.27,26.24,lead acid,212W,8.44
+road,carbon fiber,397.8,59.48,25.9,li-ion,270W,7.35
+standard,steel,449.42,49.29,13.9,-,324W,9.58
+folding,aluminum,503.45,85.25,36.21,lead acid,268W,5.4
+mountain,carbon fiber,710.26,59.16,16.46,lead acid,172W,6.81
+standard,steel,289.14,88.51,33.84,lead acid,259W,4.54
+standard,carbon fiber,371.69,48.77,24.6,lead acid,273W,5.9
+mountain,steel,499.55,75.55,22.85,lead acid,238W,6.17
+folding,steel,784.99,66.13,26.22,li-ion,244W,7.2
+standard,steel,249.52,35.3,28.36,li-ion,247W,5.95
+standard,steel,508.85,75.49,30.22,nimh,227W,8.56
+standard,steel,749.87,46.91,19.87,li-ion,301W,6.88
+standard,carbon fiber,337.47,77.78,32.28,li-ion,275W,4.76
+mountain,aluminum,274.74,49.0,30.52,li-ion,233W,4.74
+mountain,steel,460.53,67.6,22.14,li-ion,220W,5.59
+folding,carbon fiber,393.9,40.99,24.06,nimh,188W,7.87
+standard,carbon fiber,461.13,39.23,29.23,li-ion,282W,4.36
+road,aluminum,338.37,74.38,29.33,nimh,347W,6.42
+road,aluminum,233.32,64.59,28.22,lead acid,307W,7.21
+folding,carbon fiber,239.02,71.67,20.92,li-ion,251W,7.61
+folding,steel,781.39,62.78,12.42,nimh,306W,9.25
+road,aluminum,690.75,60.14,29.52,li-ion,155W,6.49
+standard,steel,418.51,47.25,28.27,li-ion,220W,6.57
+road,aluminum,687.44,76.28,24.33,li-ion,238W,5.91
+mountain,aluminum,567.68,59.46,23.0,li-ion,291W,6.72
+mountain,aluminum,763.98,49.97,19.94,li-ion,241W,5.52
+mountain,steel,519.36,52.06,23.61,-,323W,7.47
+road,steel,742.97,64.86,31.16,lead acid,250W,6.28
+standard,steel,591.7,72.35,26.37,nimh,234W,6.4
+folding,steel,401.7,68.57,22.35,lead acid,264W,6.45
+standard,steel,652.03,80.22,20.74,nimh,243W,7.88
+folding,carbon fiber,457.83,62.79,26.48,lead acid,286W,5.78
+standard,aluminum,212.01,42.19,24.32,li-ion,343W,5.6
+road,steel,470.14,54.63,34.79,li-ion,255W,7.29
+road,carbon fiber,622.31,64.98,27.13,nimh,321W,7.22
+road,carbon fiber,272.04,50.71,23.73,li-ion,341W,8.2
+folding,aluminum,782.59,87.69,30.45,nimh,272W,10.34
+mountain,steel,386.09,90.32,25.57,-,233W,4.94
+road,steel,218.31,68.72,17.91,-,162W,4.45
+folding,carbon fiber,295.15,66.02,30.2,li-ion,230W,4.23
+mountain,steel,771.49,26.89,18.73,lead acid,175W,11.55
+standard,carbon fiber,207.2,85.45,20.3,li-ion,181W,7.01
+road,steel,706.35,66.75,23.97,lead acid,293W,7.46
+mountain,aluminum,687.74,65.21,20.57,lead acid,258W,3.57
+standard,carbon fiber,496.85,79.2,17.06,nimh,252W,7.3
+road,aluminum,575.19,84.34,20.76,nimh,177W,6.62
+mountain,aluminum,356.38,48.11,23.81,li-ion,180W,5.65
+standard,carbon fiber,441.02,43.5,18.21,li-ion,351W,4.11
+standard,carbon fiber,697.35,74.54,24.29,lead acid,293W,7.63
+folding,steel,324.86,52.44,23.5,nimh,258W,6.64
+folding,carbon fiber,546.07,59.46,22.88,li-ion,273W,5.75
+mountain,aluminum,269.93,68.82,33.7,li-ion,285W,2.45
+mountain,steel,535.57,53.16,19.84,nimh,280W,8.17
+mountain,steel,451.83,43.53,21.38,nimh,227W,6.27
+mountain,aluminum,326.36,66.02,25.69,li-ion,292W,4.55
+mountain,steel,681.44,77.35,30.61,li-ion,207W,8.34
+folding,steel,451.53,79.69,32.9,lead acid,207W,6.56
+folding,steel,671.54,95.14,38.91,lead acid,250W,7.59
+folding,steel,629.21,75.46,29.12,lead acid,186W,7.49
+road,aluminum,385.19,46.11,15.07,lead acid,235W,6.6
+road,aluminum,738.77,84.28,28.77,li-ion,137W,6.39
+road,aluminum,657.73,71.77,27.03,nimh,230W,8.12
+standard,carbon fiber,541.57,60.01,35.14,nimh,307W,4.95
+folding,carbon fiber,409.5,57.33,20.36,li-ion,249W,2.89
+folding,steel,452.13,53.83,26.1,lead acid,257W,5.78
+road,steel,545.47,52.24,17.45,nimh,270W,6.95
+folding,aluminum,655.93,60.5,18.5,li-ion,185W,8.18
+road,steel,510.36,54.21,23.21,nimh,290W,7.04
+road,carbon fiber,648.42,42.28,22.89,nimh,320W,9.79
+standard,steel,320.06,64.43,22.03,lead acid,220W,5.97
+folding,aluminum,543.67,71.63,31.59,nimh,212W,7.87
+folding,STEel,403.5,69.6,20.82,lead acid,180W,4.65
+mountain,steel,695.55,59.65,27.96,li-ion,289W,8.9
+mountain,carbon fiber,593.2,61.3,21.08,nimh,284W,6.52
+standard,steel,513.36,47.86,27.55,lead acid,221W,8.15
+road,carbon fiber,329.96,57.49,23.16,lead acid,236W,4.54
+folding,aluminum,379.79,75.11,26.38,nimh,255W,4.24
+mountain,STEel,368.08,71.93,19.04,nimh,264W,7.01
